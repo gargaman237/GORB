@@ -66,11 +66,11 @@
 
                     <ul id="nav" class="nav">
                         <li class="current"><a class="smoothscroll" href="#hero">Home.</a></li>
-                        <li><a class="smoothscroll" href="#portfolio">Loans.</a></li>
-                        <li><a class="smoothscroll" href="#services">Mutual Funds.</a></li>
-                        <li><a class="smoothscroll" href="#about">Fixed Deposit.</a></li>
-                        <li><a class="smoothscroll" href="#journal">Insurance.</a></li>	            
-                        <li><a class="smoothscroll" href="#contact">Contact.</a></li>
+                        <li><a class="smoothscroll" href="./#portfolio">Loans.</a></li>
+                        <li><a class="smoothscroll" href="./#services">Mutual Funds.</a></li>
+                        <li><a class="smoothscroll" href="./#about">Fixed Deposit.</a></li>
+                        <li><a class="smoothscroll" href="./#journal">Insurance.</a></li>	            
+                        <li><a class="smoothscroll" href="./#contact">Contact.</a></li>
                     </ul> 
 
                 </nav> <!-- /nav-wrap -->	      
@@ -84,6 +84,6 @@
     {{ content() }}
     <hr>
     <footer>
-        <p>Aman Garg 2017</p>
+        <p>AmansDiary 2017</p>
     </footer>
 </div>

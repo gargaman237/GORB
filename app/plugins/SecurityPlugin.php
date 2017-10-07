@@ -22,6 +22,8 @@ class SecurityPlugin extends Plugin
 	 */
 	public function getAcl()
 	{
+            // Invalidate the cache.  (Without destroying the persistent storage, changes to acl won't be detected. )
+            unset($this->persistent->acl);
 		if (!isset($this->persistent->acl)) {
 
 			$acl = new AclList();
@@ -63,7 +65,8 @@ class SecurityPlugin extends Plugin
 				'errors'     => array('show401', 'show404', 'show500'),
 				'session'    => array('index', 'register', 'start', 'end'),
 				'contact'    => array('index', 'send'),
-                                'personalloan'    => array('index', 'send')
+                                'personalloan'    => array('index', 'send'),
+                                'homeloan'    => array('index', 'send')
 			);
 			foreach ($publicResources as $resource => $actions) {
 				$acl->addResource(new Resource($resource), $actions);
@@ -129,7 +132,7 @@ class SecurityPlugin extends Plugin
 				'controller' => 'errors',
 				'action'     => 'show401'
 			));
-                        $this->session->destroy();
+                        //$this->session->destroy();
 			return false;
 		}
 	}

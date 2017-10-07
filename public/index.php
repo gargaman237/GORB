@@ -30,3 +30,15 @@ try {
     echo $e->getMessage() . '<br>';
     echo '<pre>' . $e->getTraceAsString() . '</pre>';
 }
+
+function p($data) {
+    echo '<pre>';
+    print_r($data);die;
+    echo '</pre>';
+}
+
+function pr($data) {
+    echo '<pre>';
+    print_r($data);
+    echo '</pre>';
+}
