@@ -84,6 +84,8 @@
     {{ content() }}
     <hr>
     <footer>
+        <div class="container">
         <p>AmansDiary 2017</p>
+        </div>
     </footer>
 </div>

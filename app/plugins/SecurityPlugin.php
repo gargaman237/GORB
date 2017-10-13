@@ -66,7 +66,9 @@ class SecurityPlugin extends Plugin
 				'session'    => array('index', 'register', 'start', 'end'),
 				'contact'    => array('index', 'send'),
                                 'personalloan'    => array('index', 'send'),
-                                'homeloan'    => array('index', 'send')
+                                'homeloan'    => array('index', 'send'),
+                                'businessloan'    => array('index', 'send'),
+                                'thankyou'    => array('index'),
 			);
 			foreach ($publicResources as $resource => $actions) {
 				$acl->addResource(new Resource($resource), $actions);
