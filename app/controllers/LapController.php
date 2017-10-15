@@ -1,16 +1,16 @@
 <?php
 
-class HomeloanController extends ControllerBase
+class LapController extends ControllerBase
 {
     public function initialize()
     {
-        $this->tag->setTitle('Home Loan');
+        $this->tag->setTitle('Loan against property');
         parent::initialize();
     }
 
     public function indexAction()
     {
-        
+        $this->view->form = new LapForm;
     }
     
     /**
@@ -28,11 +28,11 @@ class HomeloanController extends ControllerBase
             );
         }
 
-        $form = new ContactForm;
-        $contact = new Contact();
+        $form = new LapForm;
 
         // Validate the form
         $data = $this->request->getPost();
+//        $contact = new Contact();
         if (!$form->isValid($data, $contact)) {
             foreach ($form->getMessages() as $message) {
                 $this->flash->error($message);

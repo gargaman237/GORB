@@ -18,6 +18,7 @@ class PersonalloanController extends ControllerBase
      */
     public function sendAction()
     {
+        $this->response->redirect('thankyou');
         if ($this->request->isPost() != true) {
             return $this->dispatcher->forward(
                 [
