@@ -129,7 +129,7 @@
                         <div class="bgrid item">
                             <div class="item-wrap">
 
-                                <a href="portfolio.html">
+                                <a href="personalloan">
                                     <img src="images/portfolio/grizzly.jpg" alt="Grizzly">
                                     <div class="overlay"></div>                       
                                     <div class="portfolio-item-meta">
@@ -144,7 +144,7 @@
                         <div class="bgrid item">
                             <div class="item-wrap">
 
-                                <a href="portfolio.html">
+                                <a href="homeloan">
                                     <img src="images/portfolio/hotel.jpg" alt="Hotel Sign">
                                     <div class="overlay">
                                         <div class="portfolio-item-meta">
@@ -156,15 +156,14 @@
 
                             </div>
                         </div> <!-- /item -->
-
-                        <div class="bgrid stack item">
+                        <div class="bgrid item">
                             <div class="item-wrap">
 
-                                <a href="portfolio.html">
-                                    <img src="images/portfolio/beetle.jpg" alt="Beetle">                        
+                                <a href="businessloan">
+                                    <img src="images/portfolio/farmerboy.jpg" alt="Farmerboy">
                                     <div class="overlay">
                                         <div class="portfolio-item-meta">
-                                            <h5>CAR Loans</h5>
+                                            <h5>Business Loan</h5>
                                             <p>Branding</p>
                                         </div>
                                     </div>                        
@@ -172,6 +171,23 @@
 
                             </div>
                         </div> <!-- /item -->
+
+                        
+                        <div class="bgrid item">
+                            <div class="item-wrap">
+
+                                <a href="lap">
+                                    <img src="images/portfolio/embossed-paper.jpg" alt="Embossed Paper">
+                                    <div class="overlay">
+                                        <div class="portfolio-item-meta">
+                                            <h5>Loan Against Property</h5>
+                                            <p>LAP</p>
+                                        </div>
+                                    </div>                                                
+                                </a>                   
+
+                            </div>
+                        </div>  <!-- item end -->
 
                         <div class="bgrid item">
                             <div class="item-wrap">
@@ -184,6 +200,22 @@
                                             <p>Music, Study, Career</p>
                                         </div>
                                     </div>                       
+                                </a>
+
+                            </div>
+                        </div> <!-- /item -->
+                        
+                        <div class="bgrid stack item">
+                            <div class="item-wrap">
+
+                                <a href="portfolio.html">
+                                    <img src="images/portfolio/beetle.jpg" alt="Beetle">                        
+                                    <div class="overlay">
+                                        <div class="portfolio-item-meta">
+                                            <h5>CAR Loans</h5>
+                                            <p>Branding</p>
+                                        </div>
+                                    </div>                        
                                 </a>
 
                             </div>
@@ -205,21 +237,7 @@
                             </div>
                         </div> <!-- /item -->
 
-                        <div class="bgrid item">
-                            <div class="item-wrap">
-
-                                <a href="portfolio.html">
-                                    <img src="images/portfolio/farmerboy.jpg" alt="Farmerboy">
-                                    <div class="overlay">
-                                        <div class="portfolio-item-meta">
-                                            <h5>Farmerboy</h5>
-                                            <p>Branding</p>
-                                        </div>
-                                    </div>                        
-                                </a>
-
-                            </div>
-                        </div> <!-- /item -->
+                        
 
                         <div class="bgrid item">
                             <div class="item-wrap">
@@ -237,21 +255,6 @@
                             </div>
                         </div> <!-- /item -->
 
-                        <div class="bgrid item">
-                            <div class="item-wrap">
-
-                                <a href="portfolio.html">
-                                    <img src="images/portfolio/embossed-paper.jpg" alt="Embossed Paper">
-                                    <div class="overlay">
-                                        <div class="portfolio-item-meta">
-                                            <h5>Embossed Paper</h5>
-                                            <p>Branding</p>
-                                        </div>
-                                    </div>                                                
-                                </a>                   
-
-                            </div>
-                        </div>  <!-- item end -->
 
                     </div> <!-- /portfolio-wrapper -->
 

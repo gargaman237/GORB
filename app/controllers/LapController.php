@@ -4,7 +4,7 @@ class LapController extends ControllerBase
 {
     public function initialize()
     {
-        $this->tag->setTitle('Loan against property');
+        $this->tag->setTitle('LAP');
         parent::initialize();
     }
 

@@ -2,11 +2,11 @@
     <div>
         <div class="row section-head">
             <div class="twelve columns">
-                <h1>Personal Loan<span></span></h1>
+                <h1>Loan Against Property<span></span></h1>
                 <hr>
                 <p>Quotes from 18 banks | Instant Approval | Maximum Loan Eligibility
                 </p>
-                <p>Let’s find the best Personal loan for you!</p>
+                <p>Let’s find the best LAP for you!</p>
             </div>
         </div>
 
