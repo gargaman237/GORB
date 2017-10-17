@@ -44,14 +44,7 @@
                     </div>
                     <div class="row wish-exp" id="wish_experts" style="display: none;"></div>
                     <div id="PLPersonalDet" style="">
-                        <div class="row">
-                            <div class="col-xs-12">
-                                <p class="pl-form-field-description">Just fill a few more details to get quote...</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            Personal Details: Your Information is secure with us and will not be shared without your consent
-                        </div>
+                        
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-md-3">
                                 <div class="form-group ">
