@@ -82,25 +82,10 @@
                         </div>
                     </div>
             </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-3" id="LoanAny_check" style="display: none;">
-                    <div class="form-group">
-                        <label for="exampleInputEmail1" class="text-left color-blue">Any Loan Running</label>
-                        <div class="radio-field"><label class="text-center color-blue radio-left radio_checklist"><input name="LoanAny_check" id="LoanAny_check" class="form-control" data-refid="loanrunning" value="1" type="radio"><i></i><span> Yes </span></label><label class="text-center color-blue radio-left radio_checklist"><input name="LoanAny_check" class="form-control" data-refid="loanrunning" value="0" type="radio"><i></i><span> No </span></label></div>
-                        <div class="clearfix"></div>
-                        <div id="LoanAnyVal"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 pd-top-2">
-                    <label class="check_show"><input name="accept" value="0" type="hidden"><input name="accept" id="accept" class="terms-condition required" data-refid="CoAppDet" checked="checked" value="1" aria-required="true" type="checkbox"><i></i><span></span>    I authorize loanmart.com &amp; I agree to the <a href="#" target="_blank" rel="nofollow" class="terms-text">Terms and Conditions.</a></label>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
+            
     </div>
     <div class="row">
-        <button type="submit" name="submit" id="submitbutton" class="btn btn-success" value="Get Quotes">Get Quotes</button>
+        <button type="submit" name="submit" id="submitbutton" class="btn btn-success" value="Get Quotes">Calculate</button>
         <!--<div class="form-group">
         {{ submit_button('Get Quotes', 'class': 'btn btn-success') }}
        </div>-->
