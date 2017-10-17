@@ -1,24 +1,29 @@
 <?php
 
-class BusinessloanController extends ControllerBase
+/**
+ * ContactController
+ *
+ * Allows to contact the staff using a contact form
+ */
+class ContinueController extends ControllerBase
 {
     public function initialize()
     {
-        $this->tag->setTitle('Business Loan');
+        $this->tag->setTitle('Continue');
         parent::initialize();
     }
 
     public function indexAction()
     {
-        
+        $this->view->form = new ContinueForm;
     }
-    
+
     /**
      * Saves the contact information in the database
      */
     public function sendAction()
     {
-        $this->response->redirect('continue');
+        $this->response->redirect('thankyou');
         if ($this->request->isPost() != true) {
             return $this->dispatcher->forward(
                 [
@@ -28,7 +33,7 @@ class BusinessloanController extends ControllerBase
             );
         }
 
-        $form = new ContactForm;
+        $form = new ContinueForm;
         $contact = new Contact();
 
         // Validate the form
@@ -69,4 +74,3 @@ class BusinessloanController extends ControllerBase
         );
     }
 }
-

@@ -18,7 +18,7 @@ class LapController extends ControllerBase
      */
     public function sendAction()
     {
-        $this->response->redirect('thankyou');
+        $this->response->redirect('continue');
         if ($this->request->isPost() != true) {
             return $this->dispatcher->forward(
                 [

@@ -69,6 +69,7 @@ class SecurityPlugin extends Plugin
                                 'homeloan'    => array('index', 'send'),
                                 'businessloan'    => array('index', 'send'),
                                 'lap'    => array('index', 'send'),
+                                'continue'    => array('index', 'send'),
                                 'thankyou'    => array('index'),
 			);
 			foreach ($publicResources as $resource => $actions) {
