@@ -277,9 +277,7 @@
 
                     <hr />
 
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p>LoanMart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
                     </p>
 
                 </div>
@@ -401,13 +399,11 @@
 
                 <div class="twelve columns">
 
-                    <h1>Who Are We<span>.</span></h1>
+                    <h1>Who We Are<span>.</span></h1>
 
                     <hr />
 
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p>Hello. We are LoanMart. Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
                     </p>
 
                 </div>
@@ -469,6 +465,7 @@
 
             <!-- team
               =================================================== -->
+            <!--
             <div id='team'>
 
                 <div class="row team section-head">
@@ -520,7 +517,11 @@
                                     <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
 
-                            </div> <!-- /member -->
+                            </div> 
+                            -->
+            
+                        <!-- /member -->
+                        <!--
 
                             <div class="bgrid member">
 
@@ -549,6 +550,7 @@
                                 </ul>
 
                             </div> <!-- /member -->
+                        <!--
 
                             <div class="bgrid member first">
 
@@ -576,7 +578,10 @@
                                     <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
 
-                            </div> <!-- /member -->
+                            </div> 
+                        -->
+                        <!-- /member -->
+                        <!--
 
                             <div class="bgrid member">
 
@@ -605,16 +610,24 @@
                                 </ul>
 
                             </div> <!-- /member -->
+                        <!--
 
                         </div> <!-- /twelve -->
-
+<!--
                     </div> <!-- /team-wrapper -->
-
+<!--
                 </div> <!-- /row -->
+<!--
+            </div> 
+            
+            
+            <!-- /team -->  
 
-            </div> <!-- /team -->           
 
-        </section> <!-- /about -->
+        </section> 
+<!-- /about -->
+
+        
 
 
         <!-- journal

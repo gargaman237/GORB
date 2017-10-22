@@ -58,4 +58,8 @@ var SignUp = {
 $(document).ready(function () {
     $("#registerForm .alert").hide();
     $("div.profile .alert").hide();
+    
+    $("#city").change(function() {
+        $('#otherDetails').show();
+    });
 });

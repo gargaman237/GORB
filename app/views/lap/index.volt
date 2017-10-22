@@ -44,7 +44,7 @@
                         </div> 
                     </div>
                     <div class="row wish-exp" id="wish_experts" style="display: none;"></div>
-                    <div id="PLPersonalDet" style="">
+                    <div id="otherDetails" style="display: none;">
                         <div class="row">
                             <div class="col-xs-12">
                                 <p class="pl-form-field-description">Just fill a few more details to get quote...</p>

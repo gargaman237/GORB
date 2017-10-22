@@ -20,15 +20,15 @@ use Phalcon\Validation\Validator\File as FileValidator;
 class ContinueForm extends Form {
 
     public function initialize($entity = null, $options = null) {
-        $dob = new Text('dob');
-        $dob->setLabel('Date Of Birth');
-        $dob->setFilters(array('striptags', 'string'));
-        $dob->addValidators(array(
-            new PresenceOf(array(
-                'message' => 'DOB is required'
-                    ))
-        ));
-        $this->add($dob);
+//        $dob = new Text('dob');
+//        $dob->setLabel('Date Of Birth');
+//        $dob->setFilters(array('striptags', 'string'));
+//        $dob->addValidators(array(
+//            new PresenceOf(array(
+//                'message' => 'DOB is required'
+//                    ))
+//        ));
+//        $this->add($dob);
 
         $gender = new Select(
                 "gender", [

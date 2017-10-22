@@ -1,30 +1,27 @@
 <?php
 
-class LapController extends ControllerBase
-{
-    public function initialize()
-    {
+class LapController extends ControllerBase {
+
+    public function initialize() {
         $this->tag->setTitle('LAP');
         parent::initialize();
     }
 
-    public function indexAction()
-    {
+    public function indexAction() {
         $this->view->form = new LapForm;
     }
-    
+
     /**
      * Saves the contact information in the database
      */
-    public function sendAction()
-    {
-        $this->response->redirect('continue');
+    public function sendAction() {
+//        $this->response->redirect('continue');
         if ($this->request->isPost() != true) {
             return $this->dispatcher->forward(
-                [
-                    "controller" => "contact",
-                    "action"     => "index",
-                ]
+                            [
+                                "controller" => "contact",
+                                "action" => "index",
+                            ]
             );
         }
 
@@ -32,41 +29,43 @@ class LapController extends ControllerBase
 
         // Validate the form
         $data = $this->request->getPost();
-//        $contact = new Contact();
-        if (!$form->isValid($data, $contact)) {
+//        p($data);
+        $lap = new Lap();
+        if (!$form->isValid($data, $lap)) {
             foreach ($form->getMessages() as $message) {
                 $this->flash->error($message);
             }
 
             return $this->dispatcher->forward(
-                [
-                    "controller" => "contact",
-                    "action"     => "index",
-                ]
+                            [
+                                "controller" => "lap",
+                                "action" => "index",
+                            ]
             );
         }
 
-        if ($contact->save() == false) {
-            foreach ($contact->getMessages() as $message) {
+        if ($lap->save() == false) {
+            foreach ($lap->getMessages() as $message) {
                 $this->flash->error($message);
             }
 
             return $this->dispatcher->forward(
-                [
-                    "controller" => "contact",
-                    "action"     => "index",
-                ]
+                            [
+                                "controller" => "lap",
+                                "action" => "index",
+                            ]
             );
         }
 
-        $this->flash->success('Thanks, we will contact you in the next few hours');
+        $this->response->redirect('continue');
+        //$this->flash->success('Thanks, we will contact you in the next few hours');
 
-        return $this->dispatcher->forward(
-            [
-                "controller" => "index",
-                "action"     => "index",
-            ]
-        );
+//        return $this->dispatcher->forward(
+//                        [
+//                            "controller" => "continue",
+//                            "action" => "index",
+//                        ]
+//        );
     }
-}
 
+}
