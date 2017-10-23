@@ -287,11 +287,13 @@
             <div class="row">
 
                 <div class="mob-whole six columns left">
-                    <label class="btn btn-success btn-lg loan-icon">
-                        <i class="icon-user"></i>
-                    </label>
+                    <a href="personalloan">
+                        <label class="btn btn-success btn-lg loan-icon">
+                            <i class="icon-user"></i>
+                        </label>
 
-                    <h3>Personal Loan</h3>	
+                        <h3>Personal Loan</h3>	
+                    </a>
 
                     <p>
                         It is a type of unsecured loan and helps to meet your current financial needs. You don't need any security/collateral while availing it. Personal Loan is your solution for instant cash and can be used for travelling, wedding, medical emergency, home renovation, or anything else.
@@ -301,23 +303,27 @@
                 </div> <!-- /left -->
 
                 <div class="mob-whole six columns right">
-                    <label class="btn btn-success btn-lg loan-icon">
-                        <i class="icon-home"></i>
-                    </label>
-                    <h3>Home Loan</h3>
+                    <a href="homeloan">
+                        <label class="btn btn-success btn-lg loan-icon">
+                            <i class="icon-home"></i>
+                        </label>
+                        <h3>Home Loan</h3>
+                    </a>
 
                     <p>
                         Home Loan is a Secured loan offered against the security of a house/property which is funded by the banks and NBFCs the property could be a personal property or a commercial one. Home loans consist of an adjustable or fixed interest rate and payment terms.
                     </p>	
 
                 </div> <!-- /right -->
-                
-                <div class="mob-whole six columns left">
-                    <label class="btn btn-success btn-lg loan-icon">
-                        <i class="icon-briefcase"></i>
-                    </label>
 
-                    <h3>Business Loan</h3>	
+                <div class="mob-whole six columns left">
+                    <a href="businessloan">
+                        <label class="btn btn-success btn-lg loan-icon">
+                            <i class="icon-briefcase"></i>
+                        </label>
+
+                        <h3>Business Loan</h3>
+                    </a>
 
                     <p>
                         A Business Loan is a loan specifically intended for business purposes. As with all loans, it involves the creation of a debt, which will be repaid with added interest. Banks and other financial institutions are there to provide you with suitable lending assistance.
@@ -326,17 +332,19 @@
                 </div> <!-- /left -->
 
                 <div class="mob-whole six columns right">
+                    <a href="lap">
                     <label class="btn btn-success btn-lg loan-icon">
                         <i class="icon-list"></i>
                     </label>
                     <h3>Loan Against Property</h3>
+                    </a>
 
                     <p>
                         Loan Against Property belongs to the secured loan category where the borrower gives a guarantee by using his property as security. Banks and financial institutions offer this LAP, which can either be a residential/commercial building or a piece of land.
                     </p>	
 
                 </div> <!-- /right -->
-                
+
 
             </div> <!-- /row -->      
 
