@@ -172,7 +172,7 @@
                             </div>
                         </div> <!-- /item -->
 
-                        
+
                         <div class="bgrid item">
                             <div class="item-wrap">
 
@@ -204,7 +204,7 @@
 
                             </div>
                         </div> <!-- /item -->
-                        
+
                         <div class="bgrid stack item">
                             <div class="item-wrap">
 
@@ -237,7 +237,7 @@
                             </div>
                         </div> <!-- /item -->
 
-                        
+
 
                         <div class="bgrid item">
                             <div class="item-wrap">
@@ -286,105 +286,57 @@
 
             <div class="row">
 
-                <div class="twelve columns">
+                <div class="mob-whole six columns left">
+                    <label class="btn btn-success btn-lg loan-icon">
+                        <i class="icon-user"></i>
+                    </label>
 
-                    <div class="service-list bgrid-third s-bgrid-half mob-bgrid-whole">
+                    <h3>Personal Loan</h3>	
 
-                        <div class="bgrid">
+                    <p>
+                        It is a type of unsecured loan and helps to meet your current financial needs. You don't need any security/collateral while availing it. Personal Loan is your solution for instant cash and can be used for travelling, wedding, medical emergency, home renovation, or anything else.
 
-                            <div class="icon-part">
-                                <span class="icon-graph"></span>
-                            </div>
+                    </p>
 
-                            <h3>Wealth of Options.</h3>
+                </div> <!-- /left -->
 
-                            <div class="service-content">	                  
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-                                </p> 
-                            </div>      
+                <div class="mob-whole six columns right">
+                    <label class="btn btn-success btn-lg loan-icon">
+                        <i class="icon-home"></i>
+                    </label>
+                    <h3>Home Loan</h3>
 
-                        </div> <!-- /bgrid -->
+                    <p>
+                        Home Loan is a Secured loan offered against the security of a house/property which is funded by the banks and NBFCs the property could be a personal property or a commercial one. Home loans consist of an adjustable or fixed interest rate and payment terms.
+                    </p>	
 
-                        <div class="bgrid">
+                </div> <!-- /right -->
+                
+                <div class="mob-whole six columns left">
+                    <label class="btn btn-success btn-lg loan-icon">
+                        <i class="icon-briefcase"></i>
+                    </label>
 
-                            <div class="icon-part">
-                                <i class="icon-film"></i>
-                            </div>
+                    <h3>Business Loan</h3>	
 
-                            <h3>On Your Side</h3>                  
+                    <p>
+                        A Business Loan is a loan specifically intended for business purposes. As with all loans, it involves the creation of a debt, which will be repaid with added interest. Banks and other financial institutions are there to provide you with suitable lending assistance.
+                    </p>
 
-                            <div class="service-content">	                  
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventoveritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                                </p> 
-                            </div>                                 
+                </div> <!-- /left -->
 
-                        </div> <!-- /bgrid -->
+                <div class="mob-whole six columns right">
+                    <label class="btn btn-success btn-lg loan-icon">
+                        <i class="icon-list"></i>
+                    </label>
+                    <h3>Loan Against Property</h3>
 
-                        <div class="bgrid">
+                    <p>
+                        Loan Against Property belongs to the secured loan category where the borrower gives a guarantee by using his property as security. Banks and financial institutions offer this LAP, which can either be a residential/commercial building or a piece of land.
+                    </p>	
 
-                            <div class="icon-part">	               	
-                                <i class="icon-camera"></i>
-                            </div>
-
-                            <h3>Quick, Simple & Reliable</h3>
-
-                            <div class="service-content">		                  
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-                                </p> 
-                            </div>                               
-
-                        </div> <!-- /bgrid -->
-
-                        <div class="bgrid first">
-
-                            <div class="icon-part">
-                                <i class="icon-eye"></i>	               	
-                            </div>
-
-                            <h3>Customer Friendly.</h3> 
-
-                            <div class="service-content">	                  
-                                <p>Call our hotline and speak with our dedicated LoanMart specialist
-                                </p> 
-                                <p>+91- 9599913818</p>
-                            </div>                                 
-
-                        </div> <!-- /bgrid -->
-
-                        <div class="bgrid">
-
-                            <div class="icon-part">
-                                <i class="icon-screen-desktop"></i>
-                            </div>
-
-                            <h3>Apply Online</h3>
-
-                            <div class="service-content">	                  
-                                <p>Apply online with our secure application.
-                                    It will hardly take 5 minutes.
-                                </p> 
-                            </div>                                 
-
-                        </div> <!-- /bgrid -->
-
-                        <div class="bgrid">
-
-                            <div class="icon-part">
-                                <i class="icon-eyeglasses"></i>
-                            </div>
-
-                            <h3>Live Chat</h3>
-
-                            <div class="service-content">
-                                <p>Want to ask a few quick questions?
-                                Our loan specialists are available to answer any questions you may have.</p> 
-                            </div>                              
-
-                        </div> <!-- /bgrid -->
-
-                    </div> <!-- /service-list -->
-
-                </div> <!-- /twelve -->
+                </div> <!-- /right -->
+                
 
             </div> <!-- /row -->      
 
@@ -518,116 +470,116 @@
                                 </ul>
 
                             </div> 
-                            -->
-            
-                        <!-- /member -->
-                        <!--
+            -->
 
-                            <div class="bgrid member">
+            <!-- /member -->
+            <!--
 
-                                <div class="member-header">
+                <div class="bgrid member">
 
-                                    <div class="member-pic">
-                                        <img src="images/team/member02-k.jpg" alt=""/>                        	
-                                    </div>
+                    <div class="member-header">
 
-                                    <div class="member-name">
-                                        <h3>Sasuke Uchiha</h3>
-                                        <span>Lead Designer</span>
-                                    </div>
+                        <div class="member-pic">
+                            <img src="images/team/member02-k.jpg" alt=""/>                        	
+                        </div>
 
-                                </div>
+                        <div class="member-name">
+                            <h3>Sasuke Uchiha</h3>
+                            <span>Lead Designer</span>
+                        </div>
 
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                                    nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
+                    </div>
 
-                                <ul class="member-social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
+                        nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
 
-                            </div> <!-- /member -->
-                        <!--
+                    <ul class="member-social">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                    </ul>
 
-                            <div class="bgrid member first">
+                </div> <!-- /member -->
+            <!--
 
-                                <div class="member-header">
+                <div class="bgrid member first">
 
-                                    <div class="member-pic">
-                                        <img src="images/team/member03-k.jpg" alt=""/>                        	
-                                    </div>
+                    <div class="member-header">
 
-                                    <div class="member-name">
-                                        <h3>Sakura Haruno</h3>
-                                        <span>Web Designer</span>
-                                    </div>
+                        <div class="member-pic">
+                            <img src="images/team/member03-k.jpg" alt=""/>                        	
+                        </div>
 
-                                </div>
+                        <div class="member-name">
+                            <h3>Sakura Haruno</h3>
+                            <span>Web Designer</span>
+                        </div>
 
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                                    nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
+                    </div>
 
-                                <ul class="member-social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
+                        nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
 
-                            </div> 
-                        -->
-                        <!-- /member -->
-                        <!--
+                    <ul class="member-social">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                    </ul>
 
-                            <div class="bgrid member">
+                </div> 
+            -->
+            <!-- /member -->
+            <!--
 
-                                <div class="member-header">
+                <div class="bgrid member">
 
-                                    <div class="member-pic">
-                                        <img src="images/team/member04-k.jpg" alt=""/>                        	                        	
-                                    </div>
+                    <div class="member-header">
 
-                                    <div class="member-name">
-                                        <h3>Shikamaru Nara</h3>
-                                        <span>Web Designer</span>
-                                    </div>
+                        <div class="member-pic">
+                            <img src="images/team/member04-k.jpg" alt=""/>                        	                        	
+                        </div>
 
-                                </div>
+                        <div class="member-name">
+                            <h3>Shikamaru Nara</h3>
+                            <span>Web Designer</span>
+                        </div>
 
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                                    nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
+                    </div>
 
-                                <ul class="member-social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
+                        nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
 
-                            </div> <!-- /member -->
-                        <!--
+                    <ul class="member-social">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                    </ul>
 
-                        </div> <!-- /twelve -->
-<!--
-                    </div> <!-- /team-wrapper -->
-<!--
-                </div> <!-- /row -->
-<!--
-            </div> 
-            
-            
+                </div> <!-- /member -->
+            <!--
+
+            </div> <!-- /twelve -->
+            <!--
+                                </div> <!-- /team-wrapper -->
+            <!--
+                            </div> <!-- /row -->
+            <!--
+                        </div> 
+                        
+                        
             <!-- /team -->  
 
 
         </section> 
-<!-- /about -->
+        <!-- /about -->
 
-        
+
 
 
         <!-- journal

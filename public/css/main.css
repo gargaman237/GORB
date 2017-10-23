@@ -2013,3 +2013,12 @@ hr {
 .more-projects .portfolio-wrapper {
 	text-align: left;
 }
+
+.loan-icon {
+    width: 79px;
+    height: 79px;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 30px;
+    line-height: 2.00;
+}

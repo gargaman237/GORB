@@ -65,12 +65,12 @@
                     </a>         
 
                     <ul id="nav" class="nav">
-                        <li class="current"><a class="smoothscroll" href="./#hero" title="Home">Home.</a></li>
-                        <li><a class="smoothscroll" href="./personalloan" title="Personal Loans">Personal Loans.</a></li>
-                        <li><a class="smoothscroll" href="./businessloan" title="Business Loans">Business Loans.</a></li>
-                        <li><a class="smoothscroll" href="./homeloan" title="Home Loans">Home Loan.</a></li>
-                        <li><a class="smoothscroll" href="./lap" title="Loan Against Property">LAP.</a></li>	            
-                        <li><a class="smoothscroll" href="./#contact">Contact.</a></li>
+                        <li class="current"><a class="smoothscroll" href="./#hero" title="Home">Home</a></li>
+                        <li><a class="smoothscroll" href="./personalloan" title="Personal Loans">Personal Loans</a></li>
+                        <li><a class="smoothscroll" href="./businessloan" title="Business Loans">Business Loans</a></li>
+                        <li><a class="smoothscroll" href="./homeloan" title="Home Loans">Home Loan</a></li>
+                        <li><a class="smoothscroll" href="./lap" title="Loan Against Property">LAP</a></li>	            
+                        <li><a class="smoothscroll" href="./#contact">Contact</a></li>
                     </ul> 
 
                 </nav> <!-- /nav-wrap -->	      
