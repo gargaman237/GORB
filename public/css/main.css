@@ -1455,12 +1455,12 @@ hr {
 /* =================================================================== */
 #portfolio {
 	background: white;
-	padding-top: 30px;
+	padding-top: 100px;
 }
 
 #disclaimer {
 	background: #ecf0f1;
-	padding-top: 30px;
+	padding-top: 100px;
 }
 
 .ie #portfolio .row.items {
@@ -1562,7 +1562,7 @@ hr {
 /* =================================================================== */
 #services {
 	background: #ecf0f1;
-	padding-top: 30px;
+	padding-top: 100px;
 	padding-bottom: 120px;
 	text-align: center;
 }
@@ -1601,7 +1601,7 @@ hr {
 
 #about {
 	background: white;
-	padding-top: 30px;
+	padding-top: 100px;
 	padding-bottom: 0;
 }
 #about .about-content {
