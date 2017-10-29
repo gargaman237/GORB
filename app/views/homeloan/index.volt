@@ -74,7 +74,7 @@
                             
                             <div class="row">
                                 <div class="col-xs-12 pd-top-2">
-                                    <label class="check_show"><input name="accept" value="0" type="hidden"><input name="accept" id="accept" class="terms-condition required" data-refid="CoAppDet" checked="checked" value="1" aria-required="true" type="checkbox"><i></i><span></span>    I authorize loanmart.com &amp; I agree to the <a href="#" target="_blank" rel="nofollow" class="terms-text">Terms and Conditions.</a></label>
+                                    <label class="check_show"><input name="accept" value="0" type="hidden"><input name="accept" id="accept" class="terms-condition required" data-refid="CoAppDet" checked="checked" value="1" aria-required="true" type="checkbox"><i></i><span></span>    I authorize loanmart.co.in &amp; I agree to the <a href="#" target="_blank" rel="nofollow" class="terms-text">Terms and Conditions.</a></label>
                                     <div class="clearfix"></div>
                                 </div>
                             </div>

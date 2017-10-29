@@ -794,7 +794,7 @@ header {
 	z-index: 990;
 	text-align: center;
 	background: #12151B;
-	background: rgba(18, 21, 27, 0.5);
+	//background: rgba(18, 21, 27, 0.5);
 	-moz-transition: background 0.5s ease-in-out;
 	-o-transition: background 0.5s ease-in-out;
 	-webkit-transition: background 0.5s ease-in-out;
@@ -887,7 +887,7 @@ ul#nav li a {
 	transition: all 0.2s ease-in-out;
 }
 ul#nav li a:hover {
-	color: white;
+	color: #f26522;
 }
 ul#nav li a:active {
 	background-color: transparent !important;
@@ -1455,8 +1455,14 @@ hr {
 /* =================================================================== */
 #portfolio {
 	background: white;
-	padding-top: 120px;
+	padding-top: 30px;
 }
+
+#disclaimer {
+	background: #ecf0f1;
+	padding-top: 30px;
+}
+
 .ie #portfolio .row.items {
 	width: 1140px;
 }
@@ -1556,7 +1562,7 @@ hr {
 /* =================================================================== */
 #services {
 	background: #ecf0f1;
-	padding-top: 120px;
+	padding-top: 30px;
 	padding-bottom: 120px;
 	text-align: center;
 }
@@ -1595,7 +1601,7 @@ hr {
 
 #about {
 	background: white;
-	padding-top: 120px;
+	padding-top: 30px;
 	padding-bottom: 0;
 }
 #about .about-content {

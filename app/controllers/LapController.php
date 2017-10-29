@@ -32,34 +32,26 @@ class LapController extends ControllerBase {
 //        p($data);
         $lap = new Lap();
         if (!$form->isValid($data, $lap)) {
-            foreach ($form->getMessages() as $message) {
-                $this->flash->error($message);
+//            foreach ($form->getMessages() as $message) {
+//                $this->flash->error($message);
+//            }
+//            return $this->dispatcher->forward(
+//                            [
+//                                "controller" => "lap",
+//                                "action" => "index",
+//                            ]
+//            );
+            $this->flash->error('Please fill the required Fields.');
+            $this->response->redirect('lap');
+        } else {
+            if ($lap->save() == false) {
+                $this->flash->error('Please fill the required Fields.');
+                $this->response->redirect('lap');
+            } else {
+                $this->response->redirect('continue');
             }
-
-            return $this->dispatcher->forward(
-                            [
-                                "controller" => "lap",
-                                "action" => "index",
-                            ]
-            );
         }
-
-        if ($lap->save() == false) {
-            foreach ($lap->getMessages() as $message) {
-                $this->flash->error($message);
-            }
-
-            return $this->dispatcher->forward(
-                            [
-                                "controller" => "lap",
-                                "action" => "index",
-                            ]
-            );
-        }
-
-        $this->response->redirect('continue');
         //$this->flash->success('Thanks, we will contact you in the next few hours');
-
 //        return $this->dispatcher->forward(
 //                        [
 //                            "controller" => "continue",

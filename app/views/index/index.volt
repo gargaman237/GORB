@@ -19,7 +19,7 @@
         <!--- Basic Page Needs
         ================================================== -->
         <meta charset="utf-8">
-        <title>Puremedia</title>
+        <title>Loanmart</title>
         <meta name="description" content="">  
         <meta name="author" content="">
 
@@ -107,7 +107,7 @@
 
                 <div class="twelve columns">
 
-                    <h1>Our Latest Works<span>.</span></h1>
+                    <h1>WHO WE ARE<span></span></h1>
 
                     <hr />
 
@@ -273,7 +273,7 @@
 
                 <div class="twelve columns">
 
-                    <h1>Our Awesome Services<span>.</span></h1>
+                    <h1>Our Awesome Services<span></span></h1>
 
                     <hr />
 
@@ -359,11 +359,11 @@
 
                 <div class="twelve columns">
 
-                    <h1>Who We Are<span>.</span></h1>
+                    <h1>Who We Are<span></span></h1>
 
                     <hr />
 
-                    <p>Hello. We are LoanMart. Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
+                    <p>Hello. We are LoanMart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
                     </p>
 
                 </div>
@@ -374,7 +374,7 @@
 
                 <div class="mob-whole six columns left">
 
-                    <h3>Our Process.</h3>	
+                    <h3>Our Process</h3>	
 
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
@@ -385,7 +385,7 @@
 
                 <div class="mob-whole six columns right">
 
-                    <h3>Our Approach.</h3>
+                    <h3>Our Approach</h3>
 
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
@@ -400,7 +400,7 @@
 
                 <div class="mob-whole six columns left">
 
-                    <h3>Our Goal.</h3>	
+                    <h3>Our Goal</h3>	
 
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
@@ -411,7 +411,7 @@
 
                 <div class="mob-whole six columns right">
 
-                    <h3>Our Mission.</h3>
+                    <h3>Our Mission</h3>
 
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
@@ -432,7 +432,7 @@
 
                     <div class="twelve columns">
 
-                        <h1>Our Rockstar Team<span>.</span></h1>
+                        <h1>Our Rockstar Team<span></span></h1>
 
                         <hr />
 
@@ -586,6 +586,26 @@
 
         </section> 
         <!-- /about -->
+        
+        <section id="disclaimer">
+            <div class="row section-head">
+
+                <div class="twelve columns">
+
+                    <h1>Disclaimer<span></span></h1>
+
+                    <hr />
+
+                    <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision. The information provided here is collected from sources we believe to be reliable, however we cannot guarantee its veracity. 
+                    </p>
+                    <p>
+                        In order to make available information about various financing schemes of individual companies/organizations more accessible, certain data has been reorganized/restructured/tabulated. Certain assumptions have also been made to enable the comparison of schemes or to provide hypothetical examples for the user. Users are advised to recheck/crosscheck the same with the individual companies/organizations. This site does not take any responsibility for any sudden/uninformed changes in the terms and conditions or structure of any schemes or featured financial products, or any other information such as interest rates, etc.
+                    </p>
+
+                </div>
+
+            </div>
+        </section>
 
 
 
@@ -598,7 +618,7 @@
 
                 <div class="twelve columns">
 
-                    <h1>Our Latest Ramblings<span>.</span></h1>
+                    <h1>Our Latest Ramblings<span></span></h1>
 
                     <hr />
 
@@ -708,7 +728,7 @@
 
                 <div class="twelve columns">
 
-                    <h1>Get In Touch With Us<span>.</span></h1>
+                    <h1>Get In Touch With Us<span></span></h1>
 
                     <hr />
 
@@ -794,22 +814,7 @@
         ================================================== -->
         <footer>
 
-            <div class="row">       
-
-                <div class="six columns tab-whole footer-about">
-
-                    <h3>About Puremedia</h3>
-
-                    <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                        nibh id elit. 
-                    </p>
-
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
-                        incididunt ut labore et dolore magna aliqua.</p>        
-
-                </div> <!-- /footer-about -->
-
+            <div class="row"> 
                 <div class="six columns tab-whole right-cols">
 
                     <div class="row">
@@ -825,7 +830,7 @@
                             <ul>
                                 <li><a href="tel:6473438234">647.343.8234</a></li>
                                 <li><a href="tel:1234567890">123.456.7890</a></li>
-                                <li><a href="mailto:someone@puremedia.com">someone@puremedia.com</a></li>
+                                <li><a href="mailto:someone@loanmart.co.in">someone@loanmart.co.in</a></li>
                             </ul>                  
                         </div> <!-- /columns -->             
 
@@ -846,8 +851,18 @@
                     </div> <!-- /Row(nested) -->
 
                 </div>
+                <div class="six columns tab-whole footer-about">
 
-                <p class="copyright">&copy; Copyright 2017 Amansdiary. <!--Design by <a href="http://www.styleshout.com/">Styleshout.</a>--></p>        
+                    <h3>Disclaimer</h3>
+
+                    <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
+                        <a class="smoothscroll" title="Disclaimer" href="#disclaimer">Read More</a>
+
+                    </p>    
+
+                </div> <!-- /footer-about -->
+
+                
 
                 <div id="go-top">
                     <a class="smoothscroll" title="Back to Top" href="#hero"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
@@ -872,7 +887,7 @@
     </body>
 
 </html>
-
+<!--
 <div class="row">
     <div class="col-md-4">
         <h2>Manage Invoices Online</h2>
@@ -887,3 +902,4 @@
         <p>Invite users and share your workload as invoice supports multiple users with different permissions. It helps your business to be more productive and efficient. </p>
     </div>
 </div>
+-->
