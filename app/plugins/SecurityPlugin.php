@@ -66,9 +66,13 @@ class SecurityPlugin extends Plugin
 				'session'    => array('index', 'register', 'start', 'end'),
 				'contact'    => array('index', 'send'),
                                 'personalloan'    => array('index', 'send'),
+                                'personalloan_continue'    => array('index', 'send'),
                                 'homeloan'    => array('index', 'send'),
+                                'homeloan_continue'    => array('index', 'send'),
                                 'businessloan'    => array('index', 'send'),
+                                'businessloan_continue'    => array('index', 'send'),
                                 'lap'    => array('index', 'send'),
+                                'lap_continue'    => array('index', 'send'),
                                 'continue'    => array('index', 'send'),
                                 'thankyou'    => array('index'),
 			);
