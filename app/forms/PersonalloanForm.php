@@ -16,7 +16,7 @@ use Phalcon\Validation\Validator\PresenceOf;
 use Phalcon\Validation\Validator\Numericality;
 use Phalcon\Validation\Validator\File as FileValidator;
 
-class LapForm extends Form {
+class PersonalloanForm extends Form {
 
     public function initialize($entity = null, $options = null) {
         $l_amount = new Text('loan_amount');
@@ -100,16 +100,6 @@ class LapForm extends Form {
             $ageArr[$i] = $i;
         }
         
-        $age = new Select('age', $ageArr, array(
-                'using' => array('id', 'name'),
-                'useEmpty' => true,
-                'emptyText' => 'please select Age',
-                "class"=>"form-control validcls",
-                'emptyValue' => '',
-                
-            ));
-        $this->add($age);
-
         $c_name = new Text('company_name');
         $c_name->setLabel('Company Name');
         $c_name->setFilters(array('striptags', 'string'));
@@ -119,24 +109,7 @@ class LapForm extends Form {
                     ))
         ));
         $this->add($c_name);
-
-        $pr_val = new Text('property_value');
-        $pr_val->setLabel('Value of Property');
-        $pr_val->setFilters(array('striptags', 'string'));
-        $pr_val->addValidators(array(
-            new PresenceOf(array(
-                'message' => 'Value of Property is required'
-                    ))
-        ));
-        $this->add($pr_val);
-
-        $city = new Select(
-                "property_type", [
-            "" => "Property type",
-            "residential" => "Residential",
-            "commercial" => "Commercial"], array('isRequired' => true));
-        $city->setLabel("Select City");
-        $this->add($city);
+        
     }
 
 }
