@@ -830,7 +830,7 @@
             <h3>Disclaimer</h3>
 
             <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
-                <a class="smoothscroll" title="Disclaimer" href="./disclaimer" target="blank">Read More</a>
+                <a class="" title="Disclaimer" href="./disclaimer" target="blank">Read More</a>
 
             </p>    
 
