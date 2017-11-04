@@ -101,25 +101,84 @@
 
         <!-- Portfolio
         ================================================== -->
-        <section id="portfolio">
-
+        <section id="about">
             <div class="row section-head">
 
                 <div class="twelve columns">
 
-                    <h1>WHO WE ARE<span></span></h1>
+                    <h1>Who We Are<span></span></h1>
 
                     <hr />
 
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p>Hello. We are LoanMart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
                     </p>
 
                 </div>
 
             </div>
 
+            <div class="row"> 
+
+                <div class="mob-whole six columns left">
+
+                    <label class="btn btn-lg loan-icon">
+                        <i class="icon-note"></i>
+                    </label>
+
+                    <h3>Easy Application</h3>	
+
+                    <p>
+                        No unnecessary meetings or paperwork. Just tell us about yourself, your employment and your needs.
+                    </p>
+
+                </div> <!-- /left -->
+
+                <div class="mob-whole six columns right">
+                    <label class="btn btn-lg loan-icon">
+                        <i class="icon-wallet"></i>
+                    </label>
+
+                    <h3>Flexible Loans</h3>
+
+                    <p>
+                        Select from multi tenure loans to choose the loan that’s best for you and your future financial goals.
+                    </p>	
+
+                </div> <!-- /right -->
+
+            </div> <!-- /row -->    
+
+            <div class="row"> 
+
+                <div class="mob-whole six columns left">
+                    <label class="btn btn-lg loan-icon">
+                        <i class="icon-clock"></i>
+                    </label>
+
+                    <h3>Fast Payment</h3>	
+
+                    <p>
+                        Once your loan is approved, we transfer the money straight into your bank account.
+                    </p>
+
+                </div> <!-- /left -->
+
+                <div class="mob-whole six columns right">
+                    <label class="btn btn-lg loan-icon">
+                        <i class="icon-lock"></i>
+                    </label>
+
+                    <h3>Secure Process</h3>
+
+                    <p>
+                        We keep all your data secure with 128 bit SSL encryption and we promise never to sell your data.
+                    </p>	
+
+                </div> <!-- /right -->
+
+            </div> <!-- /row -->
+
+            <!--
             <div class="row items">
 
                 <div class="twelve columns">
@@ -139,7 +198,7 @@
                                 </a>
 
                             </div>
-                        </div> <!-- /item -->
+                        </div> 
 
                         <div class="bgrid item">
                             <div class="item-wrap">
@@ -155,7 +214,7 @@
                                 </a>
 
                             </div>
-                        </div> <!-- /item -->
+                        </div> 
                         <div class="bgrid item">
                             <div class="item-wrap">
 
@@ -170,7 +229,7 @@
                                 </a>
 
                             </div>
-                        </div> <!-- /item -->
+                        </div> 
 
 
                         <div class="bgrid item">
@@ -187,7 +246,7 @@
                                 </a>                   
 
                             </div>
-                        </div>  <!-- item end -->
+                        </div>  
 
                         <div class="bgrid item">
                             <div class="item-wrap">
@@ -203,7 +262,7 @@
                                 </a>
 
                             </div>
-                        </div> <!-- /item -->
+                        </div> 
 
                         <div class="bgrid stack item">
                             <div class="item-wrap">
@@ -219,7 +278,7 @@
                                 </a>
 
                             </div>
-                        </div> <!-- /item -->
+                        </div> 
 
                         <div class="bgrid item">
                             <div class="item-wrap">
@@ -235,7 +294,7 @@
                                 </a>
 
                             </div>
-                        </div> <!-- /item -->
+                        </div> 
 
 
 
@@ -253,279 +312,149 @@
                                 </a>
 
                             </div>
-                        </div> <!-- /item -->
-
+                        </div> 
 
                     </div> <!-- /portfolio-wrapper -->
 
-                </div> <!-- /twelve -->
+        </div> <!-- /twelve -->
 
-            </div>  <!-- /row -->
+    </div>  <!-- /row -->
 
-        </section> <!-- /Portfolio -->
+</section> <!-- /Portfolio -->
 
 
-        <!-- Services Section
-        ================================================== -->
-        <section id="services">
+<!-- Services Section
+================================================== -->
+<section id="services">
 
-            <div class="row section-head">
+    <div class="row section-head">
 
-                <div class="twelve columns">
+        <div class="twelve columns">
 
-                    <h1>Our Awesome Services<span></span></h1>
+            <h1>Our Awesome Services<span></span></h1>
 
-                    <hr />
+            <hr />
 
-                    <p>LoanMart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
-                    </p>
+            <p>LoanMart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
+            </p>
 
-                </div>
+        </div>
 
-            </div>
+    </div>
 
-            <div class="row">
+    <div class="row">
 
-                <div class="mob-whole six columns left">
-                    <a href="personalloan">
-                        <label class="btn btn-success btn-lg loan-icon">
-                            <i class="icon-user"></i>
-                        </label>
+        <div class="mob-whole six columns left">
+            <a href="personalloan">
+                <label class="btn btn-lg loan-icon">
+                    <i class="icon-user"></i>
+                </label>
 
-                        <h3>Personal Loan</h3>	
-                    </a>
+                <h3>Personal Loan</h3>	
+            </a>
 
-                    <p>
-                        It is a type of unsecured loan and helps to meet your current financial needs. You don't need any security/collateral while availing it. Personal Loan is your solution for instant cash and can be used for travelling, wedding, medical emergency, home renovation, or anything else.
+            <p>
+                It is a type of unsecured loan and helps to meet your current financial needs. You don't need any security/collateral while availing it. Personal Loan is your solution for instant cash and can be used for travelling, wedding, medical emergency, home renovation, or anything else.
 
-                    </p>
+            </p>
 
-                </div> <!-- /left -->
+        </div> <!-- /left -->
 
-                <div class="mob-whole six columns right">
-                    <a href="homeloan">
-                        <label class="btn btn-success btn-lg loan-icon">
-                            <i class="icon-home"></i>
-                        </label>
-                        <h3>Home Loan</h3>
-                    </a>
+        <div class="mob-whole six columns right">
+            <a href="homeloan">
+                <label class="btn btn-lg loan-icon">
+                    <i class="icon-home"></i>
+                </label>
+                <h3>Home Loan</h3>
+            </a>
 
-                    <p>
-                        Home Loan is a Secured loan offered against the security of a house/property which is funded by the banks and NBFCs the property could be a personal property or a commercial one. Home loans consist of an adjustable or fixed interest rate and payment terms.
-                    </p>	
+            <p>
+                Home Loan is a Secured loan offered against the security of a house/property which is funded by the banks and NBFCs the property could be a personal property or a commercial one. Home loans consist of an adjustable or fixed interest rate and payment terms.
+            </p>	
 
-                </div> <!-- /right -->
+        </div> <!-- /right -->
 
-                <div class="mob-whole six columns left">
-                    <a href="businessloan">
-                        <label class="btn btn-success btn-lg loan-icon">
-                            <i class="icon-briefcase"></i>
-                        </label>
+        <div class="mob-whole six columns left">
+            <a href="businessloan">
+                <label class="btn btn-lg loan-icon">
+                    <i class="icon-briefcase"></i>
+                </label>
 
-                        <h3>Business Loan</h3>
-                    </a>
+                <h3>Business Loan</h3>
+            </a>
 
-                    <p>
-                        A Business Loan is a loan specifically intended for business purposes. As with all loans, it involves the creation of a debt, which will be repaid with added interest. Banks and other financial institutions are there to provide you with suitable lending assistance.
-                    </p>
+            <p>
+                A Business Loan is a loan specifically intended for business purposes. As with all loans, it involves the creation of a debt, which will be repaid with added interest. Banks and other financial institutions are there to provide you with suitable lending assistance.
+            </p>
 
-                </div> <!-- /left -->
+        </div> <!-- /left -->
 
-                <div class="mob-whole six columns right">
-                    <a href="lap">
-                    <label class="btn btn-success btn-lg loan-icon">
-                        <i class="icon-list"></i>
-                    </label>
-                    <h3>Loan Against Property</h3>
-                    </a>
+        <div class="mob-whole six columns right">
+            <a href="lap">
+                <label class="btn btn-lg loan-icon">
+                    <i class="icon-list"></i>
+                </label>
+                <h3>Loan Against Property</h3>
+            </a>
 
-                    <p>
-                        Loan Against Property belongs to the secured loan category where the borrower gives a guarantee by using his property as security. Banks and financial institutions offer this LAP, which can either be a residential/commercial building or a piece of land.
-                    </p>	
+            <p>
+                Loan Against Property belongs to the secured loan category where the borrower gives a guarantee by using his property as security. Banks and financial institutions offer this LAP, which can either be a residential/commercial building or a piece of land.
+            </p>	
 
-                </div> <!-- /right -->
+        </div> <!-- /right -->
 
 
-            </div> <!-- /row -->      
+    </div> <!-- /row -->      
 
-        </section> <!-- /services -->   
+</section> <!-- /services -->   
 
 
-        <!-- About Section
-        ================================================== -->
-        <section id="about">
+<!-- About Section
+================================================== 
+<section id="about">
+-->
+<!-- team
+  =================================================== -->
+<!--
+<div id='team'>
 
-            <div class="row section-head">
+    <div class="row team section-head">
 
-                <div class="twelve columns">
+        <div class="twelve columns">
 
-                    <h1>Who We Are<span></span></h1>
+            <h1>Our Rockstar Team<span></span></h1>
 
-                    <hr />
+            <hr />
 
-                    <p>Hello. We are LoanMart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
-                    </p>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+                voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+            </p>	         
 
-                </div>
+        </div>
 
-            </div>
+    </div>
 
-            <div class="row about-content"> 
+    <div class="row about-content">
 
-                <div class="mob-whole six columns left">
+        <div class="twelve columns">
 
-                    <h3>Our Process</h3>	
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>
-
-                </div> <!-- /left -->
-
-                <div class="mob-whole six columns right">
-
-                    <h3>Our Approach</h3>
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>	
-
-                </div> <!-- /right -->
-
-            </div> <!-- /row -->    
-
-            <div class="row about-content"> 
-
-                <div class="mob-whole six columns left">
-
-                    <h3>Our Goal</h3>	
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>
-
-                </div> <!-- /left -->
-
-                <div class="mob-whole six columns right">
-
-                    <h3>Our Mission</h3>
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>	
-
-                </div> <!-- /right -->
-
-            </div> <!-- /row -->
-
-
-            <!-- team
-              =================================================== -->
-            <!--
-            <div id='team'>
-
-                <div class="row team section-head">
-
-                    <div class="twelve columns">
-
-                        <h1>Our Rockstar Team<span></span></h1>
-
-                        <hr />
-
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                            voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p>	         
-
-                    </div>
-
-                </div>
-
-                <div class="row about-content">
-
-                    <div class="twelve columns">
-
-                        <div id="team-wrapper" class="bgrid-half mob-bgrid-whole group">
-
-                            <div class="bgrid member">
-
-                                <div class="member-header">
-
-                                    <div class="member-pic">
-                                        <img src="images/team/member01-k.jpg" alt=""/>                        	                       	
-                                    </div>
-
-                                    <div class="member-name">
-                                        <h3>Naruto Uzumaki</h3>
-                                        <span>Creative Director</span>
-                                    </div>
-
-                                </div>							
-
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                                    nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
-
-                                <ul class="member-social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-
-                            </div> 
-            -->
-
-            <!-- /member -->
-            <!--
+            <div id="team-wrapper" class="bgrid-half mob-bgrid-whole group">
 
                 <div class="bgrid member">
 
                     <div class="member-header">
 
                         <div class="member-pic">
-                            <img src="images/team/member02-k.jpg" alt=""/>                        	
+                            <img src="images/team/member01-k.jpg" alt=""/>                        	                       	
                         </div>
 
                         <div class="member-name">
-                            <h3>Sasuke Uchiha</h3>
-                            <span>Lead Designer</span>
+                            <h3>Naruto Uzumaki</h3>
+                            <span>Creative Director</span>
                         </div>
 
-                    </div>
-
-                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
-
-                    <ul class="member-social">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                    </ul>
-
-                </div> <!-- /member -->
-            <!--
-
-                <div class="bgrid member first">
-
-                    <div class="member-header">
-
-                        <div class="member-pic">
-                            <img src="images/team/member03-k.jpg" alt=""/>                        	
-                        </div>
-
-                        <div class="member-name">
-                            <h3>Sakura Haruno</h3>
-                            <span>Web Designer</span>
-                        </div>
-
-                    </div>
+                    </div>							
 
                     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
                         nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
@@ -539,352 +468,397 @@
                     </ul>
 
                 </div> 
-            -->
-            <!-- /member -->
-            <!--
+-->
 
-                <div class="bgrid member">
+<!-- /member -->
+<!--
 
-                    <div class="member-header">
+    <div class="bgrid member">
 
-                        <div class="member-pic">
-                            <img src="images/team/member04-k.jpg" alt=""/>                        	                        	
-                        </div>
+        <div class="member-header">
 
-                        <div class="member-name">
-                            <h3>Shikamaru Nara</h3>
-                            <span>Web Designer</span>
-                        </div>
+            <div class="member-pic">
+                <img src="images/team/member02-k.jpg" alt=""/>                        	
+            </div>
 
-                    </div>
+            <div class="member-name">
+                <h3>Sasuke Uchiha</h3>
+                <span>Lead Designer</span>
+            </div>
+
+        </div>
+
+        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
+            nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
+
+        <ul class="member-social">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="#"><i class="fa fa-skype"></i></a></li>
+        </ul>
+
+    </div> <!-- /member -->
+<!--
+
+    <div class="bgrid member first">
+
+        <div class="member-header">
+
+            <div class="member-pic">
+                <img src="images/team/member03-k.jpg" alt=""/>                        	
+            </div>
+
+            <div class="member-name">
+                <h3>Sakura Haruno</h3>
+                <span>Web Designer</span>
+            </div>
+
+        </div>
+
+        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
+            nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
+
+        <ul class="member-social">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="#"><i class="fa fa-skype"></i></a></li>
+        </ul>
+
+    </div> 
+-->
+<!-- /member -->
+<!--
+
+    <div class="bgrid member">
+
+        <div class="member-header">
+
+            <div class="member-pic">
+                <img src="images/team/member04-k.jpg" alt=""/>                        	                        	
+            </div>
+
+            <div class="member-name">
+                <h3>Shikamaru Nara</h3>
+                <span>Web Designer</span>
+            </div>
+
+        </div>
+
+        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
+            nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
+
+        <ul class="member-social">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="#"><i class="fa fa-skype"></i></a></li>
+        </ul>
+
+    </div> <!-- /member -->
+<!--
+
+</div> <!-- /twelve -->
+<!--
+                    </div> <!-- /team-wrapper -->
+<!--
+                </div> <!-- /row -->
+<!--
+            </div> 
+            
+            
+<!-- /team -->  
+
+
+<!--</section> 
+ about -->
+
+
+<!-- journal
+=================================================== -->
+<section id="journal">
+
+    <div class="row section-head">
+
+        <div class="twelve columns">
+
+            <h1>Our Latest Ramblings<span></span></h1>
+
+            <hr />
+
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+                voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+            </p>	         
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="twelve columns">
+
+            <div id="blog-wrapper" class="bgrid-third s-bgrid-half mob-bgrid-whole group">
+
+                <article class="bgrid">
+
+                    <h5>September 2, 2014</h5>
+                    <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
 
                     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
-
-                    <ul class="member-social">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                    </ul>
-
-                </div> <!-- /member -->
-            <!--
-
-            </div> <!-- /twelve -->
-            <!--
-                                </div> <!-- /team-wrapper -->
-            <!--
-                            </div> <!-- /row -->
-            <!--
-                        </div> 
-                        
-                        
-            <!-- /team -->  
-
-
-        </section> 
-        <!-- /about -->
-        
-        <section id="disclaimer">
-            <div class="row section-head">
-
-                <div class="twelve columns">
-
-                    <h1>Disclaimer<span></span></h1>
-
-                    <hr />
-
-                    <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision. The information provided here is collected from sources we believe to be reliable, however we cannot guarantee its veracity. 
+                        isi elit consequat ipsum, nec sagittis sem nibh id elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.
                     </p>
+
+                </article>
+
+                <article class="bgrid">
+
+                    <h5>August 29, 2014</h5>
+                    <h3><a href="single.html">Natus error sit voluptatem accusantium.</a></h3>
+
                     <p>
-                        In order to make available information about various financing schemes of individual companies/organizations more accessible, certain data has been reorganized/restructured/tabulated. Certain assumptions have also been made to enable the comparison of schemes or to provide hypothetical examples for the user. Users are advised to recheck/crosscheck the same with the individual companies/organizations. This site does not take any responsibility for any sudden/uninformed changes in the terms and conditions or structure of any schemes or featured financial products, or any other information such as interest rates, etc.
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+                        totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
                     </p>
 
-                </div>
+                </article>
 
-            </div>
-        </section>
+                <article class="bgrid">
 
+                    <h5>August 28, 2014</h5>	
+                    <h3><a href="single.html">Ut enim ad minim veniam quis nostrud</a></h3>
 
-
-
-        <!-- journal
-        =================================================== -->
-        <section id="journal">
-
-            <div class="row section-head">
-
-                <div class="twelve columns">
-
-                    <h1>Our Latest Ramblings<span></span></h1>
-
-                    <hr />
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p>	         
-
-                </div>
-
-            </div>
-
-            <div class="row">
-
-                <div class="twelve columns">
-
-                    <div id="blog-wrapper" class="bgrid-third s-bgrid-half mob-bgrid-whole group">
-
-                        <article class="bgrid">
-
-                            <h5>September 2, 2014</h5>
-                            <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
-
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                                isi elit consequat ipsum, nec sagittis sem nibh id elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.
-                            </p>
-
-                        </article>
-
-                        <article class="bgrid">
-
-                            <h5>August 29, 2014</h5>
-                            <h3><a href="single.html">Natus error sit voluptatem accusantium.</a></h3>
-
-                            <p>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-                                totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-                            </p>
-
-                        </article>
-
-                        <article class="bgrid">
-
-                            <h5>August 28, 2014</h5>	
-                            <h3><a href="single.html">Ut enim ad minim veniam quis nostrud</a></h3>
-
-                            <p>
-                                Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                                isi elit consequat ipsum, nec sagittis sem nibh id elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. 
-                            </p>
-
-                        </article>
-
-                        <article class="bgrid first">
-
-                            <h5>August 27, 2014</h5>
-                            <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
-
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat.
-                            </p>
-
-                        </article>
-
-                        <article class="bgrid">
-
-                            <h5>August 25, 2014</h5>
-                            <h3><a href="single.html">Rerum dignissimos alias eligendi laudantium quod.</a></h3>
-
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum fuga distinctio natus ab sint 
-                                voluptate quos cumque assumenda ipsa cupiditate aperiam officiis recusandae nemo labore adipisci harum, 
-                                ea odio dolor. 
-                            </p>
-
-                        </article>
-
-                        <article class="bgrid">
-
-                            <h5>August 23, 2014</h5>
-                            <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt cumque, aut nam at, 
-                                doloremque repellat blanditiis quo accusantium, rerum dignissimos alias eligendi, laudantium quod. 
-                                Autem nihil explicabo ipsa magnam porro.
-                            </p>
-
-                        </article>                     
-
-                    </div> <!-- /blog-wrapper -->
-
-                </div> <!-- /twelve -->
-
-            </div> <!-- /row -->
-
-        </section> <!-- /blog -->
-
-
-        <!-- Contact Section
-        ================================================== -->
-        <section id="contact">
-
-            <div class="row section-head">
-
-                <div class="twelve columns">
-
-                    <h1>Get In Touch With Us<span></span></h1>
-
-                    <hr />
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                        voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p>
+                        Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
+                        isi elit consequat ipsum, nec sagittis sem nibh id elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. 
                     </p>
 
-                </div>
+                </article>
 
-            </div>
+                <article class="bgrid first">
 
-            <div class="row form-section">
+                    <h5>August 27, 2014</h5>
+                    <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
 
-                <div id="contact-form" class="twelve columns">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat.
+                    </p>
 
-                    <form name="contactForm" id="contactForm" method="post" action="">
+                </article>
 
-                        <fieldset>
+                <article class="bgrid">
 
-                            <div class="row">
+                    <h5>August 25, 2014</h5>
+                    <h3><a href="single.html">Rerum dignissimos alias eligendi laudantium quod.</a></h3>
 
-                                <div class="six columns mob-whole">
-                                    <label for="contactFname">First Name <span class="required">*</span></label>	      						   
-                                    <input name="contactFname" type="text" id="contactFname" placeholder="First Name" value="" />	      					
-                                </div>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum fuga distinctio natus ab sint 
+                        voluptate quos cumque assumenda ipsa cupiditate aperiam officiis recusandae nemo labore adipisci harum, 
+                        ea odio dolor. 
+                    </p>
 
-                                <div class="six columns mob-whole">	
-                                    <label for="contactLname">Last Name <span class="required">*</span></label>      						   
-                                    <input name="contactLname" type="text" id="contactLname" placeholder="Last Name" value="" />	      					
-                                </div>	                        
+                </article>
 
-                            </div>
+                <article class="bgrid">
 
-                            <div class="row">
+                    <h5>August 23, 2014</h5>
+                    <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
 
-                                <div class="six columns mob-whole">	
-                                    <label for="contactEmail">Email <span class="required">*</span></label>      						   
-                                    <input name="contactEmail" type="text" id="contactEmail" placeholder="Email" value="" />	      					
-                                </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt cumque, aut nam at, 
+                        doloremque repellat blanditiis quo accusantium, rerum dignissimos alias eligendi, laudantium quod. 
+                        Autem nihil explicabo ipsa magnam porro.
+                    </p>
 
-                                <div class="six columns mob-whole">	 
-                                    <label for="contactSubject">Subject</label>     						   
-                                    <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject"  value="" />	      					
-                                </div>
+                </article>                     
 
-                            </div>
+            </div> <!-- /blog-wrapper -->
 
-                            <div class="row">
+        </div> <!-- /twelve -->
 
-                                <div class="twelve columns">
-                                    <label  for="contactMessage">Message <span class="required">*</span></label>
-                                    <textarea name="contactMessage"  id="contactMessage" placeholder="Your Message" rows="10" cols="50" ></textarea>
-                                </div>
+    </div> <!-- /row -->
 
-                            </div>
-
-                            <div>
-                                <button class="submit full-width">Send Message</button>
-                                <div id="image-loader">
-                                    <img src="images/loader.gif" alt="" />
-                                </div>
-                            </div>
-
-                        </fieldset>
-
-                    </form> <!-- /contactForm -->
-
-                    <!-- message box -->
-                    <div id="message-warning"></div>
-                    <div id="message-success">
-                        <i class="fa fa-check"></i>Your message was sent, thank you!<br />
-                    </div>
-
-                </div> <!-- /contact-form -->      	
-
-            </div> <!-- /form-section -->     
-
-        </section>  <!-- /contact-->
+</section> <!-- /blog -->
 
 
-        <!-- Footer
-        ================================================== -->
-        <footer>
+<!-- Contact Section
+================================================== -->
+<section id="contact">
 
-            <div class="row"> 
-                <div class="six columns tab-whole right-cols">
+    <div class="row section-head">
+
+        <div class="twelve columns">
+
+            <h1>Get In Touch With Us<span></span></h1>
+
+            <hr />
+
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+                voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="row form-section">
+
+        <div id="contact-form" class="twelve columns">
+
+            <form name="contactForm" id="contactForm" method="post" action="">
+
+                <fieldset>
 
                     <div class="row">
 
-                        <div class="columns">
-                            <h3 class="address">Contact Us</h3>
-                            <p>
-                                1600 Amphitheatre Parkway<br>
-                                Mountain View, CA<br>
-                                94043 US
-                            </p>
+                        <div class="six columns mob-whole">
+                            <label for="contactFname">Full Name <span class="required">*</span></label>	      						   
+                            <input name="contactFname" type="text" id="contactFname" placeholder="First Name" value="" />	      					
+                        </div>
 
-                            <ul>
-                                <li><a href="tel:6473438234">647.343.8234</a></li>
-                                <li><a href="tel:1234567890">123.456.7890</a></li>
-                                <li><a href="mailto:someone@loanmart.co.in">someone@loanmart.co.in</a></li>
-                            </ul>                  
-                        </div> <!-- /columns -->             
+                        <div class="six columns mob-whole">	
+                            <label for="contactMobile">Mobile <span class="required">*</span></label>      						   
+                            <input name="contactMobile" type="text" id="contactMobile" placeholder="Mobile" value="" />	      					
+                        </div>	                        
 
-                        <div class="columns last">
-                            <h3 class="contact">Follow Us</h3>
+                    </div>
 
-                            <ul>
-                                <li><a href="#">Facebook</a></li>
-                                <li><a href="#">Twitter</a></li>
-                                <li><a href="#">GooglePlus</a></li>
-                                <li><a href="#">Instagram</a></li>
-                                <li><a href="#">Flickr</a></li>
-                                <li><a href="#">Skype</a></li>
-                            </ul>
+                    <div class="row">
 
-                        </div> <!-- /columns --> 
+                        <div class="six columns mob-whole">	
+                            <label for="contactEmail">Email <span class="required">*</span></label>      						   
+                            <input name="contactEmail" type="text" id="contactEmail" placeholder="Email" value="" />	      					
+                        </div>
 
-                    </div> <!-- /Row(nested) -->
+                        <div class="six columns mob-whole">	 
+                            <label for="contactSubject">Subject</label>
+                            <select name="contactSubject" id="contactSubject">
+                                <option selected="selected" value="">Subject</option>
+                                <option value="salaried">salaried</option>
+                                <option value="salaried">salaried</option>
+                                <option value="self">Self Employment</option>
+                                <option value="self">Self Employment</option>
+                            </select>
+                        </div>
 
-                </div>
-                <div class="six columns tab-whole footer-about">
+                    </div>
 
-                    <h3>Disclaimer</h3>
+                    <div class="row">
 
-                    <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
-                        <a class="smoothscroll" title="Disclaimer" href="#disclaimer">Read More</a>
+                        <div class="twelve columns">
+                            <label  for="contactMessage">Message <span class="required">*</span></label>
+                            <textarea name="contactMessage"  id="contactMessage" placeholder="Your Message" rows="10" cols="50" ></textarea>
+                        </div>
 
-                    </p>    
+                    </div>
 
-                </div> <!-- /footer-about -->
+                    <div>
+                        <button class="submit full-width">Send Message</button>
+                        <div id="image-loader">
+                            <img src="images/loader.gif" alt="" />
+                        </div>
+                    </div>
 
-                
+                </fieldset>
 
-                <div id="go-top">
-                    <a class="smoothscroll" title="Back to Top" href="#hero"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
-                </div>
+            </form> <!-- /contactForm -->
 
-            </div> <!-- /row -->
+            <!-- message box -->
+            <div id="message-warning"></div>
+            <div id="message-success">
+                <i class="fa fa-check"></i>Your message was sent, thank you!<br />
+            </div>
 
-        </footer> <!-- /footer -->
+        </div> <!-- /contact-form -->      	
+
+    </div> <!-- /form-section -->     
+
+</section>  <!-- /contact-->
 
 
-        <!-- Java Script
-        ================================================== -->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
-        <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>   
-        <script src="js/jquery.flexslider.js"></script>
-        <script src="js/jquery.fittext.js"></script>
-        <script src="js/backstretch.js"></script> 
-        <script src="js/waypoints.js"></script>  
-        <script src="js/main.js"></script>
+<!-- Footer
+================================================== -->
+<footer>
 
-    </body>
+    <div class="row"> 
+        <div class="six columns tab-whole right-cols">
+
+            <div class="row">
+
+                <div class="columns">
+                    <h3 class="address">Contact Us</h3>
+                    <p>
+                        1600 Amphitheatre Parkway<br>
+                        Mountain View, CA<br>
+                        94043 US
+                    </p>
+
+                    <ul>
+                        <li><a href="tel:6473438234">647.343.8234</a></li>
+                        <li><a href="tel:1234567890">123.456.7890</a></li>
+                        <li><a href="mailto:someone@loanmart.co.in">someone@loanmart.co.in</a></li>
+                    </ul>                  
+                </div> <!-- /columns -->             
+
+                <div class="columns last">
+                    <h3 class="contact">Follow Us</h3>
+
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">GooglePlus</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">Flickr</a></li>
+                        <li><a href="#">Skype</a></li>
+                    </ul>
+
+                </div> <!-- /columns --> 
+
+            </div> <!-- /Row(nested) -->
+
+        </div>
+        <div class="six columns tab-whole footer-about">
+
+            <h3>Disclaimer</h3>
+
+            <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
+                <a class="smoothscroll" title="Disclaimer" href="./disclaimer" target="blank">Read More</a>
+
+            </p>    
+
+        </div> <!-- /footer-about -->
+
+
+
+        <div id="go-top">
+            <a class="smoothscroll" title="Back to Top" href="#hero"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
+        </div>
+
+    </div> <!-- /row -->
+
+</footer> <!-- /footer -->
+
+
+<!-- Java Script
+================================================== -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>   
+<script src="js/jquery.flexslider.js"></script>
+<script src="js/jquery.fittext.js"></script>
+<script src="js/backstretch.js"></script> 
+<script src="js/waypoints.js"></script>  
+<script src="js/main.js"></script>
+
+</body>
 
 </html>
 <!--

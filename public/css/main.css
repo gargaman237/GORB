@@ -1566,6 +1566,10 @@ hr {
 	padding-bottom: 120px;
 	text-align: center;
 }
+.service-list h3 {
+	font: 16px/24px "raleway-heavy", sans-serif;
+	padding: 0;
+}
 .service-list {
 	margin: 15px -22px 0 -22px;
 }
@@ -1603,6 +1607,7 @@ hr {
 	background: white;
 	padding-top: 100px;
 	padding-bottom: 0;
+        text-align: center;
 }
 #about .about-content {
 	max-width: 934px;
@@ -2027,4 +2032,6 @@ hr {
     padding: 10px 0;
     font-size: 30px;
     line-height: 2.00;
+    background-color: #f26522;
+    color: white;
 }

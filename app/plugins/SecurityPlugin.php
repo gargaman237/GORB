@@ -74,6 +74,7 @@ class SecurityPlugin extends Plugin
                                 'lap'    => array('index', 'send'),
                                 'lap_continue'    => array('index', 'send'),
                                 'continue'    => array('index', 'send'),
+                                'disclaimer'    => array('index'),
                                 'thankyou'    => array('index'),
 			);
 			foreach ($publicResources as $resource => $actions) {
