@@ -96,14 +96,14 @@ class PersonalloanContinueForm extends Form {
         ));
         $this->add($years);
 
-        $attr = array(
-            'name' => 'is_creditcard'
-        );
-        $yes = new Radio("yes", $attr);
-        $no = new Radio("no", $attr);
-        $yes->setLabel('Are you a credit card holder?');
-        $this->add($yes);
-        $this->add($no);
+//        $attr = array(
+//            'name' => 'is_creditcard'
+//        );
+//        $yes = new Radio("yes", $attr);
+//        $no = new Radio("no", $attr);
+//        $yes->setLabel('Are you a credit card holder?');
+//        $this->add($yes);
+//        $this->add($no);
 
     }
 

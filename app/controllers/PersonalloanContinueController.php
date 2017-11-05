@@ -36,18 +36,19 @@ class PersonalloanContinueController extends ControllerBase
 
         // Validate the form
         $data = $this->request->getPost();
+//        p($data);
         $plc = new PersonalloanContinue();
         if (!$form->isValid($data, $plc)) {
             $this->flash->error('Please fill the required Fields.');
             $this->response->redirect('personalloan_continue');
         } else {
-//            if ($plc->save() == false) {
-//                $this->flash->error('Please fill all the required Fields.');
-//                $this->response->redirect('personalloan_continue');
-//            } else {
+            if ($plc->save() == false) {
+                $this->flash->error('Please fill all the required Fields.');
+                $this->response->redirect('personalloan_continue');
+            } else {
                 $this->flash->success('Thanks, we will contact you in the next few hours');
                 $this->response->redirect('thankyou');
-//            }
+            }
         }
 
 
