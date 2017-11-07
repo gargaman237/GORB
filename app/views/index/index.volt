@@ -586,13 +586,11 @@
 
         <div class="twelve columns">
 
-            <h1>Our Latest Ramblings<span></span></h1>
+            <h1>Customer Testimonial<span></span></h1>
 
             <hr />
 
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+            <p>
             </p>	         
 
         </div>
@@ -604,80 +602,69 @@
         <div class="twelve columns">
 
             <div id="blog-wrapper" class="bgrid-third s-bgrid-half mob-bgrid-whole group">
-
-                <article class="bgrid">
-
-                    <h5>September 2, 2014</h5>
-                    <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
-
-                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        isi elit consequat ipsum, nec sagittis sem nibh id elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.
-                    </p>
-
-                </article>
-
-                <article class="bgrid">
-
-                    <h5>August 29, 2014</h5>
-                    <h3><a href="single.html">Natus error sit voluptatem accusantium.</a></h3>
-
-                    <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-                        totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-                    </p>
-
-                </article>
-
-                <article class="bgrid">
-
-                    <h5>August 28, 2014</h5>	
-                    <h3><a href="single.html">Ut enim ad minim veniam quis nostrud</a></h3>
-
-                    <p>
-                        Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
-                        isi elit consequat ipsum, nec sagittis sem nibh id elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. 
-                    </p>
-
-                </article>
-
+                
                 <article class="bgrid first">
 
-                    <h5>August 27, 2014</h5>
-                    <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
+                    <h5> Raj Kumar <br>March 27, 2017</h5>
+                    <h3>Nice Experience</h3>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat.
+                        I would like to inform you that your customer care rep Raj kumar was very helpful and guided me on every step for personal loan. He suggested me the best banks to go with keeping in mind my profit. He was very patient as i had many question and doubts which he Clarified. Thank you Raj Kumar.
                     </p>
 
                 </article>
 
                 <article class="bgrid">
 
-                    <h5>August 25, 2014</h5>
+                    <h5>Dinesh Shah <br>September 2, 2017</h5>
+                    <h3>Well done team .. :)</h3>
+
+                    <p>
+                        Nisha from Loanmart helped me in getting a Personal Loan from Bajaj Finserv. However, once the loan was disbursed, I got to know Bajaj Finance Sales guy had hidden some facts from me. I immediately contacted Nisha who helped me transfer my loan to HDFC at a lower interest rate. I am very happy with the way Nisha has handled my profile and given her timely suggestions. Really appreciate her services.
+                    </p>
+
+                </article>
+
+                <article class="bgrid">
+
+                    <h5> Rajat <br> August 29, 2017</h5>
+                    <h3>Great Service</h3>
+
+                    <p>
+                        Great services by Loanmart. I applied for my loan in just 2 minutes. I simply entered my details and their website showed me the best loan schemes as per my needs. It was easier to compare my loan schemes on the site as I simply seleted a few schemes and compared them as per my needs. I selected HDFC personal loan as it had the lowest interest rate of 11.49% and it also gave me insurance covers.
+                    </p>
+
+                </article>
+                
+
+                <article class="bgrid">
+
+                    <h5> Atheeq ahmed <br> August 18, 2017</h5>	
+                    <h3>Thankful, excellent job!</h3>
+
+                    <p>
+                        I  am happy and thanking you to inform you that i have received a personal loan from tata capital with good rate of interest. 
+special thanks to Tamanna. he did excellent job. 
+find always ready to resolve the queries even in extended work hours. without Tamanna i can't get this personal loan it has helped in my emergency situation he will be very calm and be patiently when ever i am calling him for this very good response from him. if any of my friends or colleague asked loan i will refer Tamanna and also already referred his name and number. 
+thanks once again and thanks a lot tamanna and to loanmart and special thanks to tamanna.
+                    </p>
+
+                </article>
+                
+                <article class="bgrid">
+
+                    <h5>D Vilas Rao <br> May 25, 2017</h5>
                     <h3><a href="single.html">Rerum dignissimos alias eligendi laudantium quod.</a></h3>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum fuga distinctio natus ab sint 
-                        voluptate quos cumque assumenda ipsa cupiditate aperiam officiis recusandae nemo labore adipisci harum, 
-                        ea odio dolor. 
+                        First of all thank you very much for processing my personal loan of Rs 1500000/- from city bank. I appreciate that you have taken this job with sincerity and in a shortest span of time you got an approval from the bank.  This personal loan was also disbursed by the bank and credited to my account immediately as soon as I received sanction and welcome letter from the bank. 
+ 
+Thanks once again that during my discussion of processing of this PL I observed that you are honest, sincere, trustworthy and committed to the work.  You are also maintaining excellent customer relationship with us. I am happy to associate with you for the last 4 years.
                     </p>
 
                 </article>
 
-                <article class="bgrid">
-
-                    <h5>August 23, 2014</h5>
-                    <h3><a href="single.html">Sed ut perspiciatis unde omnis iste natus</a></h3>
-
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt cumque, aut nam at, 
-                        doloremque repellat blanditiis quo accusantium, rerum dignissimos alias eligendi, laudantium quod. 
-                        Autem nihil explicabo ipsa magnam porro.
-                    </p>
-
-                </article>                     
+                                     
 
             </div> <!-- /blog-wrapper -->
 
@@ -740,12 +727,12 @@
 
                         <div class="six columns mob-whole">	 
                             <label for="contactSubject">Subject</label>
-                            <select name="contactSubject" id="contactSubject">
+                            <select name="contactSubject" id="contactSubject" style="color:grey">
                                 <option selected="selected" value="">Subject</option>
-                                <option value="salaried">salaried</option>
-                                <option value="salaried">salaried</option>
-                                <option value="self">Self Employment</option>
-                                <option value="self">Self Employment</option>
+                                <option value="personal">Personal Loan</option>
+                                <option value="business">Business Loan</option>
+                                <option value="home">Home Loan</option>
+                                <option value="lap">LAP</option>
                             </select>
                         </div>
 
