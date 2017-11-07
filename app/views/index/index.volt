@@ -605,18 +605,21 @@
                 
                 <article class="bgrid first">
 
-                    <h5> Raj Kumar <br>March 27, 2017</h5>
+                    <h5> <b>Ritesh Sharma </b> <br>March 27, 2017</h5>
                     <h3>Nice Experience</h3>
 
                     <p>
-                        I would like to inform you that your customer care rep Raj kumar was very helpful and guided me on every step for personal loan. He suggested me the best banks to go with keeping in mind my profit. He was very patient as i had many question and doubts which he Clarified. Thank you Raj Kumar.
+                        I would like to inform you that your customer care rep Raj kumar was very helpful and guided me on every step for personal loan. He suggested me the best banks to go with keeping in mind my profit. He was very patient as i had many question and doubts which he Clarified. 
+                        I observed that you are honest, trustworthy and committed to the work and extra marks for excellent customer relationship with us. 
+                        
+                        Thank you Raj Kumar!
                     </p>
 
                 </article>
 
                 <article class="bgrid">
 
-                    <h5>Dinesh Shah <br>September 2, 2017</h5>
+                    <h5><b>Dinesh Shah </b> <br>September 2, 2017</h5>
                     <h3>Well done team .. :)</h3>
 
                     <p>
@@ -627,7 +630,7 @@
 
                 <article class="bgrid">
 
-                    <h5> Rajat <br> August 29, 2017</h5>
+                    <h5> <b>Rajat </b><br> August 29, 2017</h5>
                     <h3>Great Service</h3>
 
                     <p>
@@ -639,7 +642,7 @@
 
                 <article class="bgrid">
 
-                    <h5> Atheeq ahmed <br> August 18, 2017</h5>	
+                    <h5> <b>Atheeq ahmed </b> <br> August 18, 2017</h5>	
                     <h3>Thankful, excellent job!</h3>
 
                     <p>
@@ -653,7 +656,7 @@ thanks once again and thanks a lot tamanna and to loanmart and special thanks to
                 
                 <article class="bgrid">
 
-                    <h5>D Vilas Rao <br> May 25, 2017</h5>
+                    <h5> <b>D Vilas Rao </b> <br> May 25, 2017</h5>
                     <h3><a href="single.html">Rerum dignissimos alias eligendi laudantium quod.</a></h3>
 
                     <p>
