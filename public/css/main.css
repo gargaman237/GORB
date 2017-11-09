@@ -879,7 +879,7 @@ ul#nav li a {
 	padding: 17px 12px;
 	line-height: 38px;
 	text-decoration: none;
-	color: #c0cdd1;
+	color: #fff;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
 	-webkit-transition: all 0.2s ease-in-out;
@@ -887,7 +887,7 @@ ul#nav li a {
 	transition: all 0.2s ease-in-out;
 }
 ul#nav li a:hover {
-	color: #f26522;
+	background-color: #f26522;
 }
 ul#nav li a:active {
 	background-color: transparent !important;
@@ -1696,6 +1696,12 @@ hr {
 	color: #f26522;
 }
 
+#banks {
+	background: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+        text-align: center;
+}
 
 /* 
 /*  o. Journal Section
@@ -2034,4 +2040,12 @@ hr {
     line-height: 2.00;
     background-color: #f26522;
     color: white;
+}
+
+.loan-btn {
+    background-color: #f26522;
+    color: white;
+}
+.loan-btn:hover {
+    background-color: #d94d0d;
 }

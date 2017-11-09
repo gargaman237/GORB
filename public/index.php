@@ -8,6 +8,8 @@ use Phalcon\Config\Adapter\Ini as ConfigIni;
 
 try {
     define('APP_PATH', realpath('..') . '/');
+    $city_json = file_get_contents('../schemas/city.json');
+    define('APP_CITY', $city_json);
 
     /**
      * Read the configuration

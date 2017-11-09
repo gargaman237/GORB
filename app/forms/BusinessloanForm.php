@@ -21,7 +21,7 @@ class BusinessloanForm extends Form {
     public function initialize($entity = null, $options = null) {
         
         $year_incorporation = new Numeric('year_incorporation');
-        $year_incorporation->setLabel('Year Of Incorporation/VAT/Service Tax Registration');
+        $year_incorporation->setLabel('Year Of Incorporation');
         $year_incorporation->addValidators(array(
             new PresenceOf(array(
                 'message' => 'Year of incorporation required'
@@ -30,7 +30,7 @@ class BusinessloanForm extends Form {
         $this->add($year_incorporation);
         
         $l_amount = new Text('loan_amount');
-        $l_amount->setLabel('Loan Amount required');
+        $l_amount->setLabel('Loan Amount Required');
         $l_amount->setFilters(array('striptags', 'string'));
         $l_amount->addValidators(array(
             new PresenceOf(array(
@@ -39,7 +39,7 @@ class BusinessloanForm extends Form {
         ));
         $this->add($l_amount);
         
-        $turn_over = new Numeric('turn_over');
+        $turn_over = new Text('turn_over');
         $turn_over->setLabel('Turnover');
         $turn_over->addValidators(array(
             new PresenceOf(array(
@@ -48,13 +48,13 @@ class BusinessloanForm extends Form {
         ));
         $this->add($turn_over);
 
-        
-
+        $city_arr[""] = "City";
+        $app_city = json_decode(APP_CITY);
+        foreach ($app_city as $value) {
+            $city_arr[strtolower($value)] = $value;
+        }
         $city = new Select(
-                "city", [
-            "" => "City",
-            "delhi" => "Delhi",
-            "mumbai" => "Mumbai"], array('isRequired' => true));
+                "city", $city_arr, array('isRequired' => true));
         $city->setLabel("Select City");
         $this->add($city);
 

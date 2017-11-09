@@ -577,6 +577,20 @@
 <!--</section> 
  about -->
 
+<!-- Banking Parthners Section -->
+
+<section id="banks">
+    <div class="row section-head">
+
+        <div class="twelve columns">
+            <h1>Banks in our Network<span></span></h1>
+            <hr />
+            <img src="images/banks-add.jpg" alt="Banks in our network">
+        </div>
+
+    </div>
+</section>
+
 
 <!-- journal
 =================================================== -->
@@ -602,7 +616,7 @@
         <div class="twelve columns">
 
             <div id="blog-wrapper" class="bgrid-third s-bgrid-half mob-bgrid-whole group">
-                
+
                 <article class="bgrid first">
 
                     <h5> <b>Ritesh Sharma </b> <br>March 27, 2017</h5>
@@ -611,7 +625,7 @@
                     <p>
                         I would like to inform you that your customer care rep Raj kumar was very helpful and guided me on every step for personal loan. He suggested me the best banks to go with keeping in mind my profit. He was very patient as i had many question and doubts which he Clarified. 
                         I observed that you are honest, trustworthy and committed to the work and extra marks for excellent customer relationship with us. 
-                        
+
                         Thank you Raj Kumar!
                     </p>
 
@@ -638,7 +652,7 @@
                     </p>
 
                 </article>
-                
+
 
                 <article class="bgrid">
 
@@ -647,13 +661,13 @@
 
                     <p>
                         I  am happy and thanking you to inform you that i have received a personal loan from tata capital with good rate of interest. 
-special thanks to Tamanna. he did excellent job. 
-find always ready to resolve the queries even in extended work hours. without Tamanna i can't get this personal loan it has helped in my emergency situation he will be very calm and be patiently when ever i am calling him for this very good response from him. if any of my friends or colleague asked loan i will refer Tamanna and also already referred his name and number. 
-thanks once again and thanks a lot tamanna and to loanmart and special thanks to tamanna.
+                        special thanks to Tamanna. he did excellent job. 
+                        find always ready to resolve the queries even in extended work hours. without Tamanna i can't get this personal loan it has helped in my emergency situation he will be very calm and be patiently when ever i am calling him for this very good response from him. if any of my friends or colleague asked loan i will refer Tamanna and also already referred his name and number. 
+                        thanks once again and thanks a lot tamanna and to loanmart and special thanks to tamanna.
                     </p>
 
                 </article>
-                
+
                 <article class="bgrid">
 
                     <h5> <b>D Vilas Rao </b> <br> May 25, 2017</h5>
@@ -661,13 +675,13 @@ thanks once again and thanks a lot tamanna and to loanmart and special thanks to
 
                     <p>
                         First of all thank you very much for processing my personal loan of Rs 1500000/- from city bank. I appreciate that you have taken this job with sincerity and in a shortest span of time you got an approval from the bank.  This personal loan was also disbursed by the bank and credited to my account immediately as soon as I received sanction and welcome letter from the bank. 
- 
-Thanks once again that during my discussion of processing of this PL I observed that you are honest, sincere, trustworthy and committed to the work.  You are also maintaining excellent customer relationship with us. I am happy to associate with you for the last 4 years.
+
+                        Thanks once again that during my discussion of processing of this PL I observed that you are honest, sincere, trustworthy and committed to the work.  You are also maintaining excellent customer relationship with us. I am happy to associate with you for the last 4 years.
                     </p>
 
                 </article>
 
-                                     
+
 
             </div> <!-- /blog-wrapper -->
 

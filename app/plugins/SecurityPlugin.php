@@ -76,6 +76,7 @@ class SecurityPlugin extends Plugin
                                 'continue'    => array('index', 'send'),
                                 'disclaimer'    => array('index'),
                                 'thankyou'    => array('index'),
+                                'terms_conditions'    => array('index'),
 			);
 			foreach ($publicResources as $resource => $actions) {
 				$acl->addResource(new Resource($resource), $actions);

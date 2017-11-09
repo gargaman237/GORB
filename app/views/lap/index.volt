@@ -4,8 +4,10 @@
             <div class="twelve columns">
                 <h1>Loan Against Property<span></span></h1>
                 <hr>
+                <!--
                 <p>Quotes from 18 banks | Instant Approval | Maximum Loan Eligibility
                 </p>
+                -->
                 <p>Let’s find the best LAP for you!</p>
             </div>
         </div>
@@ -115,13 +117,13 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 pd-top-2">
-                    <label class="check_show"><input name="accept" value="0" type="hidden"><input name="accept" id="accept" class="terms-condition required" data-refid="CoAppDet" checked="checked" value="1" aria-required="true" type="checkbox"><i></i><span></span>    I authorize loanmart.co.in &amp; I agree to the <a href="#" target="_blank" rel="nofollow" class="terms-text">Terms and Conditions.</a></label>
+                    <label class="check_show"><input name="accept" value="0" type="hidden"><input name="accept" id="accept" class="terms-condition required" data-refid="CoAppDet" checked="checked" value="1" aria-required="true" type="checkbox"><i></i><span></span>    I authorize loanmart.co.in &amp; I agree to the <a href="./terms_conditions" target="_blank" rel="nofollow" class="terms-text">Terms and Conditions.</a></label>
                     <div class="clearfix"></div>
                 </div>
             </div>
     </div>
     <div class="row">
-        <button type="submit" name="submit" id="submitbutton" class="btn btn-success" value="Get Quotes">Get Quotes</button>
+        <button type="submit" name="submit" id="submitbutton" class="btn loan-btn" value="Get Quotes">Get Quotes</button>
         <!--<div class="form-group">
          {{ submit_button('Get Quotes', 'class': 'btn btn-success') }}
         </div>-->

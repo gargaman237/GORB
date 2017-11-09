@@ -20,7 +20,7 @@ class PersonalloanForm extends Form {
 
     public function initialize($entity = null, $options = null) {
         $l_amount = new Text('loan_amount');
-        $l_amount->setLabel('Loan Amount required');
+        $l_amount->setLabel('Loan Amount Required');
         $l_amount->setFilters(array('striptags', 'string'));
         $l_amount->addValidators(array(
             new PresenceOf(array(
@@ -32,7 +32,7 @@ class PersonalloanForm extends Form {
         $occupation = new Select(
                 "occupation", [
             "" => "Employment Status",
-            "salaried" => "salaried",
+            "salaried" => "Salaried",
             "self" => "Self Employment"], array('isRequired' => true));
         $occupation->setLabel("Occupation");
 //        if (!empty($edit_data['d_status'])) {
@@ -40,7 +40,7 @@ class PersonalloanForm extends Form {
 //        }
         $this->add($occupation);
 
-        $net_income = new Numeric('net_income');
+        $net_income = new Text('net_income');
         $net_income->setLabel('Net Income/Salary');
         $net_income->setFilters(array('striptags', 'string'));
         $net_income->addValidators(array(
@@ -50,11 +50,13 @@ class PersonalloanForm extends Form {
         ));
         $this->add($net_income);
 
+        $city_arr[""] = "City";
+        $app_city = json_decode(APP_CITY);
+        foreach ($app_city as $value) {
+            $city_arr[strtolower($value)] = $value;
+        }
         $city = new Select(
-                "city", [
-            "" => "City",
-            "delhi" => "Delhi",
-            "mumbai" => "Mumbai"], array('isRequired' => true));
+                "city", $city_arr, array('isRequired' => true));
         $city->setLabel("Select City");
         $this->add($city);
 

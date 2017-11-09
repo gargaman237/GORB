@@ -6,8 +6,10 @@
             <div class="twelve columns">
                 <h1>Home Loan<span></span></h1>
                 <hr>
+                <!--
                 <p>Home is a lifetime dream for individual. This is the primary reason that there is a long list of banks and financial institutions which offer all types of home loans in India. The loans which are used for purchasing a residential property are commercial property only known as Home Purchase Loans. These can further be divided into fixed interest rate and floating interest rate loans. This type of Home Loan provided by all kinds of Banks and nbfc. Home loan approval time takes 10 – 15 day after all required documents are provided on time to the lending bank & nbfc. Maximum home loan repayment period is 30 years.
                 </p>
+                -->
                 <p>Let’s find the best Home loan for you!</p>
             </div>
         </div>
@@ -98,13 +100,13 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 pd-top-2">
-                    <label class="check_show"><input name="accept" value="0" type="hidden"><input name="accept" id="accept" class="terms-condition required" data-refid="CoAppDet" checked="checked" value="1" aria-required="true" type="checkbox"><i></i><span></span>    I authorize loanmart.co.in &amp; I agree to the <a href="#" target="_blank" rel="nofollow" class="terms-text">Terms and Conditions.</a></label>
+                    <label class="check_show"><input name="accept" value="0" type="hidden"><input name="accept" id="accept" class="terms-condition required" data-refid="CoAppDet" checked="checked" value="1" aria-required="true" type="checkbox"><i></i><span></span>    I authorize loanmart.co.in &amp; I agree to the <a href="./terms_conditions" target="_blank" rel="nofollow" class="terms-text">Terms and Conditions.</a></label>
                     <div class="clearfix"></div>
                 </div>
             </div>
     </div>
     <div class="row">
-        <button type="submit" name="submit" id="submitbutton" class="btn btn-success" value="Get Quotes">Get Quotes</button>
+        <button type="submit" name="submit" id="submitbutton" class="btn loan-btn" value="Get Quotes">Get Quotes</button>
         <!--<div class="form-group">
         {{ submit_button('Get Quotes', 'class': 'btn btn-success') }}
        </div>-->
