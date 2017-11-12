@@ -66,9 +66,9 @@
 
                     <ul id="nav" class="nav">
                         <!--<li class="current"><a class="smoothscroll" href="./#hero" title="Home">Home</a></li>-->
-                        <li><a href="./homeloan" title="Home Loans">Home Loan</a></li>
                         <li><a href="./personalloan" title="Personal Loans">Personal Loan</a></li>
                         <li><a href="./businessloan" title="Business Loans">Business Loan</a></li>
+                        <li><a href="./homeloan" title="Home Loans">Home Loan</a></li>
                         <li><a href="./lap" title="Loan Against Property">LAP</a></li>	            
                         <li><a class="smoothscroll" href="./#contact">Contact</a></li>
                     </ul> 

@@ -1157,7 +1157,8 @@ hr {
 ---------------------------------------------------------------------- */
 #page-title {
 	//background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-        background: #12151b url(../images/home-loan-bg.jpg) no-repeat center center fixed;
+        //background: #12151b url(../images/home-loan-bg.jpg) no-repeat center center fixed;
+        background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
@@ -1278,7 +1279,8 @@ hr {
 /* =================================================================== */
 #hero {
 //	background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-	background: #12151b url(../images/home-loan.png) no-repeat center center fixed;
+	//background: #12151b url(../images/home-loan.png) no-repeat center center fixed;
+        background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
@@ -1410,6 +1412,53 @@ hr {
 	color: white;
 	text-shadow: none;
 	background: #d44d0d !important;
+}
+
+.carousel-caption {
+    //left: 12%;
+    line-height: 1;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+}
+
+.carousel-caption h1 {
+    color: #fff;
+    font-size: 80px;
+    line-height: 1;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-caption h2 {
+    color: #fff;
+    font-size: 30px;
+    line-height: 1;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-caption button {
+    background: transparent none repeat scroll 0 0;
+    border-color: #d44d0d;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+    border: 0 none;
+    color: #fff;
+    text-shadow: 0 0 5px black;
+    font-size: 20px;
+    height: 55px;
+    margin: 2%;
+    text-transform: uppercase;
+    transition: all 0.5s ease 0s;
+    width: 240px;
+}
+
+.carousel-caption button:hover {
+	background: #d44d0d !important;
+	color: #fff;
 }
 
 /* Slider Control Nav */
@@ -1605,7 +1654,7 @@ hr {
 
 #about {
 	background: white;
-	padding-top: 100px;
+	//padding-top: 100px;
 	padding-bottom: 0;
         text-align: center;
 }

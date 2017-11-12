@@ -56,44 +56,54 @@
         =================================================== -->
         <section id="hero">	
 
-            <div class="row hero-content">
-
-                <div class="twelve columns flex-container">
-
-                    <div id="hero-slider" class="flexslider">
-
-                        <ul class="slides">
-
-                            <!-- Slide -->
-                            <li>
-                                <div class="flex-caption">
-                                    <h1>Investment, Credit & Smart Financial Management.</h1>	
-                                    <p><a class="button stroke smoothscroll" href="#about">More About Us</a></p>																   
-                                </div>						
-                            </li>
-
-                            <!-- Slide -->
-                            <li>						
-                                <div class="flex-caption">
-                                    <h1 >We imagine, craft and manage your brand in this new digital world.</h1>	
-                                    <p><a class="button stroke smoothscroll" href="#portfolio">See Our Works</a></p>									   
-                                </div>					
-                            </li>
-
-                            <!-- Slide -->
-                            <li>
-                                <div class="flex-caption">
-                                    <h1 >Take a look at some of <a class="smoothscroll" href="#portfolio" title="">our works</a> or <a class="smoothscroll" href="#contact" title="">contact us</a> to discuss how we can help you.</h1>
-                                    <p><a class="button stroke smoothscroll" href="#contact">Get In Touch</a></p>										   
-                                </div>
-                            </li>					              
-
-                        </ul>
-
-                    </div> <!-- .flexslider -->				   
-
-                </div> <!-- .flex-container -->      
-
+            <div class="hero-content">
+                        <div id="carouselHacked" class="carousel slide carousel-fade" data-ride="carousel">
+					<div class="header-backup"></div>
+			        <!-- Wrapper for slides -->
+			        <div class="carousel-inner" role="listbox">
+			            <div class="item active">
+			            	<img src="images/personal_loan.jpg" alt="" style="height:600px; width: 2000px;">
+			                <div class="carousel-caption flex-caption">
+		               			<h1>Personal Loan</h1>
+		               			<h2>For All your Requirements</h2>
+		               			<button>learn more</button>
+			                </div>
+			            </div>
+			            <div class="item">
+			            	<img src="images/business_loan.jpg" alt="" style="height:600px; width: 2000px;">
+			                <div class="carousel-caption flex-caption">
+		               			<h1></h1>
+		               			<h2></h2>
+		               			<button>learn more</button>
+			                </div>
+			            </div>
+			            <div class="item">
+			            	<img src="images/home_loan.jpg" alt="" style="height:600px; width: 2000px;">
+			                <div class="carousel-caption flex-caption">
+		               			<h1>Home Loan</h1>
+		               			<h2>For All your Requirements</h2>
+		               			<button>learn more</button>
+			                </div>
+			            </div>
+			            <div class="item">
+			            	<img src="images/lap.jpg" alt="" style="height:600px; width: 2000px;">
+			                <div class="carousel-caption flex-caption">
+		               			<h1>Loan Against Property</h1>
+		               			<h2>For All your Requirements</h2>
+		               			<button>learn more</button>
+			                </div>
+			            </div>
+			        </div>
+			        <!-- Controls -->
+			        <a class="left carousel-control" href="#carouselHacked" role="button" data-slide="prev">
+			            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			            <span class="sr-only">Previous</span>
+			        </a>
+			        <a class="right carousel-control" href="#carouselHacked" role="button" data-slide="next">
+			            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+			            <span class="sr-only">Next</span>
+			        </a>
+			    </div>
             </div> <!-- .hero-content -->	   
 
         </section> <!-- #hero -->
@@ -619,41 +629,39 @@
 
                 <article class="bgrid first">
 
-                    <h5> <b>Ritesh Sharma </b> <br>March 27, 2017</h5>
-                    <h3>Nice Experience</h3>
-
-                    <p>
-                        I would like to inform you that your customer care rep Raj kumar was very helpful and guided me on every step for personal loan. He suggested me the best banks to go with keeping in mind my profit. He was very patient as i had many question and doubts which he Clarified. 
-                        I observed that you are honest, trustworthy and committed to the work and extra marks for excellent customer relationship with us. 
-
-                        Thank you Raj Kumar!
-                    </p>
+                    <h3>    Great Service</h3>
+                    <blockquote>
+                        <p>Great services by Loanmart. I applied for my loan in just 2 minutes.</p>
+                        <h5><b>Rajat </b> <br></h5>
+                        <cite>Jult 23, 2017</cite>
+		    </blockquote>
 
                 </article>
 
                 <article class="bgrid">
 
-                    <h5><b>Dinesh Shah </b> <br>September 2, 2017</h5>
                     <h3>Well done team .. :)</h3>
-
-                    <p>
-                        Nisha from Loanmart helped me in getting a Personal Loan from Bajaj Finserv. However, once the loan was disbursed, I got to know Bajaj Finance Sales guy had hidden some facts from me. I immediately contacted Nisha who helped me transfer my loan to HDFC at a lower interest rate. I am very happy with the way Nisha has handled my profile and given her timely suggestions. Really appreciate her services.
-                    </p>
+                    <blockquote>
+                        <p>The loan process was well explained and handled</p>
+                        <br>
+                        <h5><b>Dinesh Shah </b> <br></h5>
+                        <cite>September 2, 2017</cite>
+		    </blockquote>
 
                 </article>
 
                 <article class="bgrid">
 
-                    <h5> <b>Rajat </b><br> August 29, 2017</h5>
-                    <h3>Great Service</h3>
-
-                    <p>
-                        Great services by Loanmart. I applied for my loan in just 2 minutes. I simply entered my details and their website showed me the best loan schemes as per my needs. It was easier to compare my loan schemes on the site as I simply seleted a few schemes and compared them as per my needs. I selected HDFC personal loan as it had the lowest interest rate of 11.49% and it also gave me insurance covers.
-                    </p>
-
+                    <h3>Nice experience with Loanmart</h3>
+                    <blockquote>
+                        <p>Personal Assistance till loan disbursal. Best rates.</p>
+                        <br>
+                        <h5><b>Atheeq ahmed </b> <br></h5>
+                        <cite>August 18, 2017</cite>
+		    </blockquote>
                 </article>
 
-
+<!--
                 <article class="bgrid">
 
                     <h5> <b>Atheeq ahmed </b> <br> August 18, 2017</h5>	
@@ -680,8 +688,7 @@
                     </p>
 
                 </article>
-
-
+-->
 
             </div> <!-- /blog-wrapper -->
 
@@ -800,9 +807,9 @@
                 <div class="columns">
                     <h3 class="address">Contact Us</h3>
                     <p>
-                        1600 Amphitheatre Parkway<br>
-                        Mountain View, CA<br>
-                        94043 US
+                        505, 5th Floor DDA Building No 5<br>
+                        District Centre Janakpuri<br>
+                        New Delhi, 110058, India
                     </p>
 
                     <ul>
