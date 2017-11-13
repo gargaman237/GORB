@@ -48,7 +48,7 @@
         <header id="main-header">
 
             <div class="row header-inner">
-                <a class="smoothscroll" href="./#home" style="color: #f26522"><b>LOANMART</b></a>
+                <!--<a class="smoothscroll" href="./#home" style="color: #f26522"><b>LOANMART</b></a>-->
                 <div class="logo">
                     <a class="smoothscroll" href="#hero">Loanmart</a>
                 </div>
@@ -83,6 +83,60 @@
 <div class="">
     {{ content() }}
     <footer>
+        <div class="row"> 
+        <div class="six columns tab-whole right-cols">
+
+            <div class="row">
+
+                <div class="columns">
+                    <h3 class="address">Contact Us</h3>
+                    <p>
+                        505, 5th Floor DDA Building No 5<br>
+                        District Centre Janakpuri<br>
+                        New Delhi, 110058, India
+                    </p>
+
+                    <ul>
+                        <li><a href="tel:01143005707">011 - 43005707</a></li>
+                        <li><a href="mailto:someone@loanmart.co.in">someone@loanmart.co.in</a></li>
+                    </ul>                  
+                </div> <!-- /columns -->             
+
+                <div class="columns last">
+                    <h3 class="contact">Follow Us</h3>
+
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">GooglePlus</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">Flickr</a></li>
+                        <li><a href="#">Skype</a></li>
+                    </ul>
+
+                </div> <!-- /columns --> 
+
+            </div> <!-- /Row(nested) -->
+
+        </div>
+        <div class="six columns tab-whole footer-about">
+
+            <h3>Disclaimer</h3>
+
+            <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
+                <a class="" title="Disclaimer" href="./disclaimer" target="blank">Read More</a>
+
+            </p>    
+
+        </div> <!-- /footer-about -->
+
+
+
+        <div id="go-top">
+            <a class="smoothscroll" title="Back to Top" href="#hero"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
+        </div>
+
+    </div> <!-- /row -->
         <div class="container">
             <p class="copyright">&copy; Copyright 2017 Amansdiary. <!--Design by <a href="http://www.styleshout.com/">Styleshout.</a>--></p>        
         </div>
