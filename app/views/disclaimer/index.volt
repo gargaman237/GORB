@@ -5,7 +5,7 @@
                 <h1>Disclaimer<span></span></h1>
                 <hr>
                 <p>
-                    We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision. The information provided here is collected from sources we believe to be reliable, however we cannot guarantee its veracity.
+                    We do not take any responsibility for the information which appears on Loanmart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision. The information provided here is collected from sources we believe to be reliable, however we cannot guarantee its veracity.
                 </p>
                 <p>
 

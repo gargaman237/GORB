@@ -144,7 +144,7 @@
 
                     <hr />
 
-                    <p>Hello. We are LoanMart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
+                    <p>Hello. We are Loanmart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
                     </p>
 
                 </div>
@@ -369,7 +369,7 @@
 
             <hr />
 
-            <p>LoanMart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
+            <p>Loanmart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
             </p>
 
         </div>
@@ -657,19 +657,19 @@
                     <blockquote>
                         <p>Great services by Loanmart. I applied for my loan in just 2 minutes.</p>
                         <h5><b>Rajat </b> <br></h5>
-                        <cite>Jult 23, 2017</cite>
+                        <h6>Jult 23, 2017</h6>
 		    </blockquote>
 
                 </article>
 
                 <article class="bgrid">
 
-                    <h3>Well done team .. :)</h3>
+                    <h3>Well done team !)</h3>
                     <blockquote>
                         <p>The loan process was well explained and handled</p>
                         <br>
                         <h5><b>Dinesh Shah </b> <br></h5>
-                        <cite>September 2, 2017</cite>
+                        <h6>September 2, 2017</h6>
 		    </blockquote>
 
                 </article>
@@ -681,7 +681,7 @@
                         <p>Personal Assistance till loan disbursal. Best rates.</p>
                         <br>
                         <h5><b>Atheeq ahmed </b> <br></h5>
-                        <cite>August 18, 2017</cite>
+                        <h6>August 18, 2017</h6>
 		    </blockquote>
                 </article>
 

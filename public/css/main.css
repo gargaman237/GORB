@@ -815,28 +815,28 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin: 0 60px 0 0;
+	margin: 0 200px 0 0;
 	padding: 0;
 	border: none;
 	outline: none;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 160px;
+	width: 170px;
 	height: 70px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
-	background-image: url("../images/logo-lmart.png");
-        background-size: 160px 70px;
+	background-image: url("../images/logo-lmart-orng.png");
+        background-size: 170px 70px;
 }
 #main-header {
     box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.5);
-    background-color: #fff;
+    background-color: #000;
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
 		//background-image: url("../images/logo-@2x.png");
-		background-image: url("../images/logo-lmart.png");
+		background-image: url("../images/logo-lmart-orng.png");
 		//-webkit-background-size: 126px 12px;
 		//-moz-background-size: 126px 12px;
 		background-size: 120px 50px;
@@ -1166,7 +1166,7 @@ hr {
 ---------------------------------------------------------------------- */
 #page-title {
 	//background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-        background: #12151b url(../images/lmart-bg.jpg) no-repeat center center fixed;
+        background: #12151b url(../images/carausal-bg.jpg) no-repeat center center fixed;
         //background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
@@ -1288,7 +1288,7 @@ hr {
 /* =================================================================== */
 #hero {
 //	background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-	background: #12151b url(../images/lmart-bg.jpg) no-repeat center center fixed;
+	background: #12151b url(../images/carausal-bg.jpg) no-repeat center center fixed;
         //background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
@@ -1765,7 +1765,7 @@ hr {
 /*  o. Journal Section
 /* =================================================================== */
 #journal {
-	background: #a43b0a url(../images/blog-bg.jpg) no-repeat bottom center fixed;
+	background: #a43b0a url(../images/testimonial-bg.jpg) no-repeat bottom center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;

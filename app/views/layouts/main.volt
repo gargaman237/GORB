@@ -50,7 +50,7 @@
             <div class="row header-inner">
                 <!--<a class="smoothscroll" href="./#home" style="color: #f26522"><b>LOANMART</b></a>-->
                 <div class="logo">
-                    <a class="smoothscroll" href="#hero">Loanmart</a>
+                    <a class="smoothscroll" href="./#hero">Loanmart</a>
                 </div>
 
                 <nav id="nav-wrap">         
@@ -88,6 +88,7 @@
 
             <div class="row">
 
+                <!--
                 <div class="columns">
                     <h3 class="address">Contact Us</h3>
                     <p>
@@ -100,7 +101,9 @@
                         <li><a href="tel:01143005707">011 - 43005707</a></li>
                         <li><a href="mailto:someone@loanmart.co.in">someone@loanmart.co.in</a></li>
                     </ul>                  
-                </div> <!-- /columns -->             
+                </div>
+                -->
+                <!-- /columns -->             
 
                 <div class="columns last">
                     <h3 class="contact">Follow Us</h3>
@@ -123,7 +126,7 @@
 
             <h3>Disclaimer</h3>
 
-            <p>We do not take any responsibility for the information which appears on LoanMart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
+            <p>We do not take any responsibility for the information which appears on Loanmart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
                 <a class="" title="Disclaimer" href="./disclaimer" target="blank">Read More</a>
 
             </p>    
