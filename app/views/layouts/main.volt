@@ -88,7 +88,7 @@
 
             <div class="row">
 
-                <!--
+                
                 <div class="columns">
                     <h3 class="address">Contact Us</h3>
                     <p>
@@ -102,7 +102,6 @@
                         <li><a href="mailto:someone@loanmart.co.in">someone@loanmart.co.in</a></li>
                     </ul>                  
                 </div>
-                -->
                 <!-- /columns -->             
 
                 <div class="columns last">
