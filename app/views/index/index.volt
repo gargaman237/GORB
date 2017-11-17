@@ -56,6 +56,7 @@
         =================================================== -->
         <section id="hero">	
             
+            <!-- Begin Static Image
             <div class="row hero-content">
 
                 <div class="twelve columns flex-container">
@@ -63,8 +64,6 @@
                     <div id="hero-slider" class="flexslider">
 
                         <ul class="slides">
-
-                            <!-- Slide -->
                             <li>
                                 <div class="flex-caption">
                                     <h1>Loanmart offers the best loans for all your requirements</h1>	
@@ -74,20 +73,20 @@
 
                         </ul>
 
-                    </div> <!-- .flexslider -->				   
+                    </div>			   
 
-                </div> <!-- .flex-container -->      
+                </div>    
 
-            </div> <!-- .hero-content -->
+            </div> 
+            End Static -->
             
-            
-            <!-- carausel Start
+            <!-- carausel Start -->
             <div class="hero-content">
                         <div id="carouselHacked" class="carousel slide carousel-fade" data-ride="carousel">
 					<div class="header-backup"></div>
 			        <div class="carousel-inner" role="listbox">
 			            <div class="item active">
-			            	<img src="images/personal_loan.jpg" alt="" style="height:600px; width: 2000px;">
+			            	<img src="images/hero_personal.jpg" alt="" style="height:600px; width: 2000px;">
 			                <div class="carousel-caption flex-caption">
 		               			<h1>Personal Loan</h1>
 		               			<h2>For All your Requirements</h2>
@@ -95,7 +94,7 @@
 			                </div>
 			            </div>
 			            <div class="item">
-			            	<img src="images/business_loan.jpg" alt="" style="height:600px; width: 2000px;">
+			            	<img src="images/hero_business.jpg" alt="" style="height:600px; width: 2000px;">
 			                <div class="carousel-caption flex-caption">
 		               			<h1></h1>
 		               			<h2></h2>
@@ -103,7 +102,7 @@
 			                </div>
 			            </div>
 			            <div class="item">
-			            	<img src="images/home_loan.jpg" alt="" style="height:600px; width: 2000px;">
+			            	<img src="images/hero_home.jpg" alt="" style="height:600px; width: 2000px;">
 			                <div class="carousel-caption flex-caption">
 		               			<h1>Home Loan</h1>
 		               			<h2>For All your Requirements</h2>
@@ -111,7 +110,7 @@
 			                </div>
 			            </div>
 			            <div class="item">
-			            	<img src="images/lap.jpg" alt="" style="height:600px; width: 2000px;">
+			            	<img src="images/hero_lap.jpg" alt="" style="height:600px; width: 2000px;">
 			                <div class="carousel-caption flex-caption">
 		               			<h1>Loan Against Property</h1>
 		               			<h2>For All your Requirements</h2>
@@ -128,7 +127,8 @@
 			            <span class="sr-only">Next</span>
 			        </a>
 			    </div>
-            </div> Carausal End -->	   
+            </div> 
+            <!--Carausal End -->	   
 
         </section> <!-- #hero -->
 
@@ -725,6 +725,7 @@
 
 <!-- Contact Section
 ================================================== -->
+<!--
 <section id="contact">
 
     <div class="row section-head">
@@ -804,19 +805,19 @@
 
                 </fieldset>
 
-            </form> <!-- /contactForm -->
+            </form> 
 
-            <!-- message box -->
             <div id="message-warning"></div>
             <div id="message-success">
                 <i class="fa fa-check"></i>Your message was sent, thank you!<br />
             </div>
 
-        </div> <!-- /contact-form -->      	
+        </div>     	
 
-    </div> <!-- /form-section -->     
+    </div>    
 
-</section>  <!-- /contact-->
+</section> 
+-->
 
 <!-- Java Script
 ================================================== -->

@@ -1,28 +1,91 @@
+<section id="contact">
 
-{{ content() }}
+    <div class="row section-head">
 
-<div class="page-header">
-    <h2>Contact Us</h2>
-</div>
+        <div class="twelve columns">
 
-<p>Send us a message and let us know how we can help. Please be as descriptive as possible as it will help us serve you better.</p>
+            <h1>Get In Touch With Us<span></span></h1>
 
-{{ form('contact/send', 'role': 'form') }}
-    <fieldset>
-        <div class="form-group">
-            {{ form.label('name') }}
-            {{ form.render('name', ['class': 'form-control']) }}
+            <hr />
+
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+                voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+            </p>
+
         </div>
-        <div class="form-group">
-            {{ form.label('email') }}
-            {{ form.render('email', ['class': 'form-control']) }}
-        </div>
-        <div class="form-group">
-            {{ form.label('comments') }}
-            {{ form.render('comments', ['class': 'form-control']) }}
-        </div>
-        <div class="form-group">
-            {{ submit_button('Send', 'class': 'btn btn-primary btn-large') }}
-        </div>
-    </fieldset>
-</form>
+
+    </div>
+
+    <div class="row form-section">
+
+        <div id="contact-form" class="twelve columns">
+
+            <form name="contactForm" id="contactForm" method="post" action="">
+
+                <fieldset>
+
+                    <div class="row">
+
+                        <div class="six columns mob-whole">
+                            <label for="contactFname">Full Name <span class="required">*</span></label>	      						   
+                            <input name="contactFname" type="text" id="contactFname" placeholder="First Name" value="" />	      					
+                        </div>
+
+                        <div class="six columns mob-whole">	
+                            <label for="contactMobile">Mobile <span class="required">*</span></label>      						   
+                            <input name="contactMobile" type="text" id="contactMobile" placeholder="Mobile" value="" />	      					
+                        </div>	                        
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="six columns mob-whole">	
+                            <label for="contactEmail">Email <span class="required">*</span></label>      						   
+                            <input name="contactEmail" type="text" id="contactEmail" placeholder="Email" value="" />	      					
+                        </div>
+
+                        <div class="six columns mob-whole">	 
+                            <label for="contactSubject">Subject</label>
+                            <select name="contactSubject" id="contactSubject" style="color:grey">
+                                <option selected="selected" value="">Subject</option>
+                                <option value="personal">Personal Loan</option>
+                                <option value="business">Business Loan</option>
+                                <option value="home">Home Loan</option>
+                                <option value="lap">LAP</option>
+                            </select>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="twelve columns">
+                            <label  for="contactMessage">Message <span class="required">*</span></label>
+                            <textarea name="contactMessage"  id="contactMessage" placeholder="Your Message" rows="10" cols="50" ></textarea>
+                        </div>
+
+                    </div>
+
+                    <div>
+                        <button class="submit full-width">Send Message</button>
+                        <div id="image-loader">
+                            <img src="images/loader.gif" alt="" />
+                        </div>
+                    </div>
+
+                </fieldset>
+
+            </form> 
+
+            <div id="message-warning"></div>
+            <div id="message-success">
+                <i class="fa fa-check"></i>Your message was sent, thank you!<br />
+            </div>
+
+        </div>     	
+
+    </div>    
+
+</section> 

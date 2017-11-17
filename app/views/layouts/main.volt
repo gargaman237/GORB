@@ -70,7 +70,8 @@
                         <li><a href="./businessloan" title="Business Loans">Business Loan</a></li>
                         <li><a href="./homeloan" title="Home Loans">Home Loan</a></li>
                         <li><a href="./lap" title="Loan Against Property">LAP</a></li>	            
-                        <li><a class="smoothscroll" href="./#contact">Contact</a></li>
+                        <li><a class="smoothscroll" href="./contact">Contact</a></li>
+                        <li><a class="smoothscroll" href="./blogs">Blog</a></li>
                     </ul> 
 
                 </nav> <!-- /nav-wrap -->
@@ -99,7 +100,8 @@
 
                     <ul>
                         <li><a href="tel:01143005707">011 - 43005707</a></li>
-                        <li><a href="mailto:someone@loanmart.co.in">someone@loanmart.co.in</a></li>
+                        <li><a href="mailto:support@loanmart.co.in">support@loanmart.co.in</a></li>
+                        <a class="" title="Contact us" href="./contact">Contact Us</a>
                     </ul>                  
                 </div>
                 <!-- /columns -->             
@@ -140,7 +142,7 @@
 
     </div> <!-- /row -->
         <div class="container">
-            <p class="copyright">&copy; Copyright 2017 Amansdiary. <!--Design by <a href="http://www.styleshout.com/">Styleshout.</a>--></p>        
+           <!-- <p class="copyright">&copy; Copyright 2017 Amansdiary. -->
         </div>
     </footer>
 </div>
