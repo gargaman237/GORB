@@ -1166,7 +1166,7 @@ hr {
 ---------------------------------------------------------------------- */
 #page-title {
 	//background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-        //background: #12151b url(../images/carausal-bg.jpg) no-repeat center center fixed;
+        background: #12151b url(../images/hero_lap.jpg) no-repeat center center fixed;
         background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
@@ -1288,7 +1288,7 @@ hr {
 /* =================================================================== */
 #hero {
 //	background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-	//background: #12151b url(../images/carausal-bg.jpg) no-repeat center center fixed;
+	background: #12151b url(../images/hero_lap.jpg) no-repeat center center fixed;
         background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;

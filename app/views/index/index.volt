@@ -56,7 +56,7 @@
         =================================================== -->
         <section id="hero">	
             
-            <!-- Begin Static Image
+            <!-- Begin Static Image -->
             <div class="row hero-content">
 
                 <div class="twelve columns flex-container">
@@ -78,9 +78,9 @@
                 </div>    
 
             </div> 
-            End Static -->
+            <!-- End Static -->
             
-            <!-- carausel Start -->
+            <!-- carausel Start
             <div class="hero-content">
                         <div id="carouselHacked" class="carousel slide carousel-fade" data-ride="carousel">
 					<div class="header-backup"></div>
@@ -664,7 +664,7 @@
 
                 <article class="bgrid">
 
-                    <h3>Well done team !)</h3>
+                    <h3>Well done team !</h3>
                     <blockquote>
                         <p>The loan process was well explained and handled</p>
                         <br>
