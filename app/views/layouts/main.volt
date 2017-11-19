@@ -71,7 +71,7 @@
                         <li><a href="./homeloan" title="Home Loans">Home Loan</a></li>
                         <li><a href="./lap" title="Loan Against Property">LAP</a></li>	            
                         <li><a class="" href="./contact">Contact</a></li>
-                        <li><a class="" href="./blogs">Blog</a></li>
+                        <li><a class="" href="./blog">Blog</a></li>
                     </ul> 
 
                 </nav> <!-- /nav-wrap -->
