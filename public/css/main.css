@@ -1166,7 +1166,7 @@ hr {
 ---------------------------------------------------------------------- */
 #page-title {
 	//background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-        background: #12151b url(../images/hero_lap.jpg) no-repeat center center fixed;
+        background: #12151b url(../images/banner_image.jpg) no-repeat center center fixed;
         background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
@@ -1288,7 +1288,7 @@ hr {
 /* =================================================================== */
 #hero {
 //	background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-	background: #12151b url(../images/hero_lap.jpg) no-repeat center center fixed;
+	background: #12151b url(../images/banner_image.jpg) no-repeat center center fixed;
         background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
@@ -1296,7 +1296,7 @@ hr {
 	padding-top: 66px;
 	padding-bottom: 90px;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 	position: relative;
 }
 .ie8 #hero { background: #12151b; }
