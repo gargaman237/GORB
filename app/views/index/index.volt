@@ -56,7 +56,7 @@
         =================================================== -->
         <section id="hero">	
             
-            <!-- Begin Static Image -->
+            <!-- Begin Static Image
             <div class="row hero-content">
 
                 <div class="twelve columns flex-container">
@@ -78,11 +78,11 @@
                 </div>    
 
             </div> 
-            <!-- End Static -->
+            End Static -->
             
-            <!-- carausel Start
+            <!-- carausel Start -->
             <div class="hero-content">
-                        <div id="carouselHacked" class="carousel slide carousel-fade" data-ride="carousel">
+                        <div id="carouselHacked" class="carousel carousel-fade" data-ride="carousel">
 					<div class="header-backup"></div>
 			        <div class="carousel-inner" role="listbox">
 			            <div class="item active">
@@ -90,7 +90,7 @@
 			                <div class="carousel-caption flex-caption">
 		               			<h1>Personal Loan</h1>
 		               			<h2>For All your Requirements</h2>
-		               			<button>learn more</button>
+                                                <a href="./personalloan" title="Personal Loans"><button>learn more</button></a>
 			                </div>
 			            </div>
 			            <div class="item">
@@ -98,7 +98,7 @@
 			                <div class="carousel-caption flex-caption">
 		               			<h1></h1>
 		               			<h2></h2>
-		               			<button>learn more</button>
+                                                <a href="./businessloan" title="Business Loans"><button>learn more</button></a>
 			                </div>
 			            </div>
 			            <div class="item">
@@ -106,7 +106,7 @@
 			                <div class="carousel-caption flex-caption">
 		               			<h1>Home Loan</h1>
 		               			<h2>For All your Requirements</h2>
-		               			<button>learn more</button>
+                                                <a href="./homeloan" title="Home Loans"><button>learn more</button></a>
 			                </div>
 			            </div>
 			            <div class="item">
@@ -114,7 +114,7 @@
 			                <div class="carousel-caption flex-caption">
 		               			<h1>Loan Against Property</h1>
 		               			<h2>For All your Requirements</h2>
-		               			<button>learn more</button>
+                                                <a href="./lap" title="Loan Against Property"><button>learn more</button></a>
 			                </div>
 			            </div>
 			        </div>
