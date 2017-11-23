@@ -11,7 +11,7 @@ class IndexController extends ControllerBase
     public function indexAction()
     {
         if (!$this->request->isPost()) {
-            //$this->flash->notice('This is a Loanmart, we provide the best loan in the market. Thanks');
+            //$this->flash->notice('This is a Loanmaart, we provide the best loan in the market. Thanks');
         }
     }
 }

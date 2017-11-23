@@ -1,5 +1,5 @@
 <div class="page-header">
-    <h2>About Loanmart</h2>
+    <h2>About Loanmaart</h2>
 </div>
 
 <p>

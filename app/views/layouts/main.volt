@@ -19,7 +19,7 @@
         <!--- Basic Page Needs
         ================================================== -->
         <meta charset="utf-8">
-        <title>Loanmart</title>
+        <title>Loanmaart</title>
         <meta name="description" content="">  
         <meta name="author" content="">
 
@@ -48,9 +48,9 @@
         <header id="main-header">
 
             <div class="row header-inner">
-                <!--<a class="smoothscroll" href="./#home" style="color: #f26522"><b>LOANMART</b></a>-->
+                <!--<a class="smoothscroll" href="./#home" style="color: #f26522"><b>Loanmaart</b></a>-->
                 <div class="logo">
-                    <a class="smoothscroll" href="./#hero">Loanmart</a>
+                    <a class="smoothscroll" href="./#hero">Loanmaart</a>
                 </div>
 
                 <nav id="nav-wrap">         
@@ -100,7 +100,7 @@
 
                     <ul>
                         <li><a href="tel:01143005707">011 - 43005707</a></li>
-                        <li><a href="mailto:support@loanmart.co.in">support@loanmart.co.in</a></li>
+                        <li><a href="mailto:support@loanmaart.com">support@loanmaart.com</a></li>
                         <a class="" title="Contact us" href="./contact">Contact Us</a>
                     </ul>                  
                 </div>
@@ -127,7 +127,7 @@
 
             <h3>Disclaimer</h3>
 
-            <p>We do not take any responsibility for the information which appears on Loanmart as the information is sourced from the respective bank’s websites.The information published at Loanmart.co.in is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
+            <p>We do not take any responsibility for the information which appears on Loanmaart as the information is sourced from the respective bank’s websites.The information published at loanmaart.com is collected from either websites of Banks & Financial Institutions or using market research. It is aimed at helping the customer understand the product better and make an informed decision...
                 <a class="" title="Disclaimer" href="./disclaimer" target="blank">Read More</a>
 
             </p>    
