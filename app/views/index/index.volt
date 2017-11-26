@@ -19,7 +19,7 @@
         <!--- Basic Page Needs
         ================================================== -->
         <meta charset="utf-8">
-        <title>Loanmaart</title>
+        <title>Loanmart</title>
         <meta name="description" content="">  
         <meta name="author" content="">
 
@@ -54,9 +54,9 @@
 
         <!-- Hero
         =================================================== -->
-        <section id="hero">	
+        <section id="hero"> 
             
-            <!-- Begin Static Image
+            <!-- Begin Static Image -->
             <div class="row hero-content">
 
                 <div class="twelve columns flex-container">
@@ -66,77 +66,69 @@
                         <ul class="slides">
                             <li>
                                 <div class="flex-caption">
-                                    <h1>Loanmaart offers the best loans for all your requirements</h1>	
-                                    <p><a class="button stroke smoothscroll" href="#services">More About Us</a></p>																   
-                                </div>						
+                                    <h1>Loanmart offers the best loans for all your requirements</h1>   
+                                    <p><a class="button stroke smoothscroll" href="#services">More About Us</a></p>                                                                
+                                </div>                      
                             </li>
 
                         </ul>
 
-                    </div>			   
+                    </div>             
 
                 </div>    
 
             </div> 
-            End Static -->
+            <!-- End Static -->
             
-            <!-- carausel Start -->
+            <!-- carausel Start 
             <div class="hero-content">
                         <div id="carouselHacked" class="carousel carousel-fade" data-ride="carousel">
-					<div class="header-backup"></div>
-			        <div class="carousel-inner" role="listbox">
-                                    <div class="item active">
-			            	<img src="images/banner_image.jpg" alt="" style="height:600px; width: 2000px;">
-			                <div class="carousel-caption flex-caption" style="text-align: left; margin-top: -20%;">
-                                            <h1>Loanmaart offers the best loans</h1>
-                                            <h2>for all your requirements</h2>
-                                            <a href="#services" title="Our Services"><button>More About Us</button></a>
-                                        </div>
-			            </div>
-			            <div class="item">
-			            	<img src="images/personal-loan.jpg" alt="" style="height:600px; width: 2000px;">
-			                <div class="carousel-caption flex-caption">
-		               			<h1>Personal Loan</h1>
-		               			<h2>For All your Requirements</h2>
+                    <div class="header-backup"></div>
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="images/hero_personal.jpg" alt="" style="height:600px; width: 2000px;">
+                            <div class="carousel-caption flex-caption">
+                                <h1>Personal Loan</h1>
+                                <h2>For All your Requirements</h2>
                                                 <a href="./personalloan" title="Personal Loans"><button>learn more</button></a>
-			                </div>
-			            </div>
-			            <div class="item">
-			            	<img src="images/business-loan.jpg" alt="" style="height:600px; width: 2000px;">
-			                <div class="carousel-caption flex-caption">
-		               			<h1>Business Loan</h1>
-		               			<h2>For All your Requirements</h2>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/hero_business.jpg" alt="" style="height:600px; width: 2000px;">
+                            <div class="carousel-caption flex-caption">
+                                <h1></h1>
+                                <h2></h2>
                                                 <a href="./businessloan" title="Business Loans"><button>learn more</button></a>
-			                </div>
-			            </div>
-			            <div class="item">
-			            	<img src="images/home-loan.jpg" alt="" style="height:600px; width: 2000px;">
-			                <div class="carousel-caption flex-caption">
-		               			<h1>Home Loan</h1>
-		               			<h2>For All your Requirements</h2>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/hero_home.jpg" alt="" style="height:600px; width: 2000px;">
+                            <div class="carousel-caption flex-caption">
+                                <h1>Home Loan</h1>
+                                <h2>For All your Requirements</h2>
                                                 <a href="./homeloan" title="Home Loans"><button>learn more</button></a>
-			                </div>
-			            </div>
-			            <div class="item">
-			            	<img src="images/loan-against-property.jpg" alt="" style="height:600px; width: 2000px;">
-			                <div class="carousel-caption flex-caption">
-		               			<h1>Loan Against Property</h1>
-		               			<h2>For All your Requirements</h2>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/hero_lap.jpg" alt="" style="height:600px; width: 2000px;">
+                            <div class="carousel-caption flex-caption">
+                                <h1>Loan Against Property</h1>
+                                <h2>For All your Requirements</h2>
                                                 <a href="./lap" title="Loan Against Property"><button>learn more</button></a>
-			                </div>
-			            </div>
-			        </div>
-			        <a class="left carousel-control" href="#carouselHacked" role="button" data-slide="prev">
-			            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-			            <span class="sr-only">Previous</span>
-			        </a>
-			        <a class="right carousel-control" href="#carouselHacked" role="button" data-slide="next">
-			            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-			            <span class="sr-only">Next</span>
-			        </a>
-			    </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="left carousel-control" href="#carouselHacked" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carouselHacked" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
             </div> 
-            <!--Carausal End -->	   
+            Carausal End -->       
 
         </section> <!-- #hero -->
 
@@ -152,7 +144,7 @@
 
                     <hr />
 
-                    <p>Hello. We are Loanmaart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
+                    <p>Hello. We are Loanmart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
                     </p>
 
                 </div>
@@ -167,7 +159,7 @@
                         <i class="icon-note"></i>
                     </label>
 
-                    <h3>Easy Application</h3>	
+                    <h3>Easy Application</h3>   
 
                     <p>
                         No unnecessary meetings or paperwork. Just tell us about yourself, your employment and your needs.
@@ -184,7 +176,7 @@
 
                     <p>
                         Select from multi tenure loans to choose the loan that’s best for you and your future financial goals.
-                    </p>	
+                    </p>    
 
                 </div> <!-- /right -->
 
@@ -197,7 +189,7 @@
                         <i class="icon-clock"></i>
                     </label>
 
-                    <h3>Fast Payment</h3>	
+                    <h3>Fast Payment</h3>   
 
                     <p>
                         Once your loan is approved, we transfer the money straight into your bank account.
@@ -214,7 +206,7 @@
 
                     <p>
                         We keep all your data secure with 128 bit SSL encryption and we promise never to sell your data.
-                    </p>	
+                    </p>    
 
                 </div> <!-- /right -->
 
@@ -377,7 +369,7 @@
 
             <hr />
 
-            <p>Loanmaart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
+            <p>Loanmart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
             </p>
 
         </div>
@@ -392,7 +384,7 @@
                     <i class="icon-user"></i>
                 </label>
 
-                <h3>Personal Loan</h3>	
+                <h3>Personal Loan</h3>  
             </a>
 
             <p>
@@ -412,7 +404,7 @@
 
             <p>
                 Home Loan is a Secured loan offered against the security of a house/property which is funded by the banks and NBFCs the property could be a personal property or a commercial one. Home loans consist of an adjustable or fixed interest rate and payment terms.
-            </p>	
+            </p>    
 
         </div> <!-- /right -->
 
@@ -441,7 +433,7 @@
 
             <p>
                 Loan Against Property belongs to the secured loan category where the borrower gives a guarantee by using his property as security. Banks and financial institutions offer this LAP, which can either be a residential/commercial building or a piece of land.
-            </p>	
+            </p>    
 
         </div> <!-- /right -->
 
@@ -471,7 +463,7 @@
             <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                 eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
                 voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-            </p>	         
+            </p>             
 
         </div>
 
@@ -488,7 +480,7 @@
                     <div class="member-header">
 
                         <div class="member-pic">
-                            <img src="images/team/member01-k.jpg" alt=""/>                        	                       	
+                            <img src="images/team/member01-k.jpg" alt=""/>                                                  
                         </div>
 
                         <div class="member-name">
@@ -496,7 +488,7 @@
                             <span>Creative Director</span>
                         </div>
 
-                    </div>							
+                    </div>                          
 
                     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,
                         nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p>
@@ -520,7 +512,7 @@
         <div class="member-header">
 
             <div class="member-pic">
-                <img src="images/team/member02-k.jpg" alt=""/>                        	
+                <img src="images/team/member02-k.jpg" alt=""/>                          
             </div>
 
             <div class="member-name">
@@ -549,7 +541,7 @@
         <div class="member-header">
 
             <div class="member-pic">
-                <img src="images/team/member03-k.jpg" alt=""/>                        	
+                <img src="images/team/member03-k.jpg" alt=""/>                          
             </div>
 
             <div class="member-name">
@@ -580,7 +572,7 @@
         <div class="member-header">
 
             <div class="member-pic">
-                <img src="images/team/member04-k.jpg" alt=""/>                        	                        	
+                <img src="images/team/member04-k.jpg" alt=""/>                                                      
             </div>
 
             <div class="member-name">
@@ -647,7 +639,7 @@
             <hr />
 
             <p>
-            </p>	         
+            </p>             
 
         </div>
 
@@ -663,10 +655,10 @@
 
                     <h3>    Great Service</h3>
                     <blockquote>
-                        <p>Great services by Loanmaart. I applied for my loan in just 2 minutes.</p>
+                        <p>Great services by Loanmart. I applied for my loan in just 2 minutes.</p>
                         <h5><b>Rajat </b> <br></h5>
-                        <h6>July 23, 2017</h6>
-		    </blockquote>
+                        <h6>Jult 23, 2017</h6>
+            </blockquote>
 
                 </article>
 
@@ -678,32 +670,32 @@
                         <br>
                         <h5><b>Dinesh Shah </b> <br></h5>
                         <h6>September 2, 2017</h6>
-		    </blockquote>
+            </blockquote>
 
                 </article>
 
                 <article class="bgrid">
 
-                    <h3>Nice experience with Loanmaart</h3>
+                    <h3>Nice experience with Loanmart</h3>
                     <blockquote>
                         <p>Personal Assistance till loan disbursal. Best rates.</p>
                         <br>
                         <h5><b>Atheeq ahmed </b> <br></h5>
                         <h6>August 18, 2017</h6>
-		    </blockquote>
+            </blockquote>
                 </article>
 
 <!--
                 <article class="bgrid">
 
-                    <h5> <b>Atheeq ahmed </b> <br> August 18, 2017</h5>	
+                    <h5> <b>Atheeq ahmed </b> <br> August 18, 2017</h5> 
                     <h3>Thankful, excellent job!</h3>
 
                     <p>
                         I  am happy and thanking you to inform you that i have received a personal loan from tata capital with good rate of interest. 
                         special thanks to Tamanna. he did excellent job. 
                         find always ready to resolve the queries even in extended work hours. without Tamanna i can't get this personal loan it has helped in my emergency situation he will be very calm and be patiently when ever i am calling him for this very good response from him. if any of my friends or colleague asked loan i will refer Tamanna and also already referred his name and number. 
-                        thanks once again and thanks a lot tamanna and to Loanmaart and special thanks to tamanna.
+                        thanks once again and thanks a lot tamanna and to loanmart and special thanks to tamanna.
                     </p>
 
                 </article>
@@ -764,25 +756,25 @@
                     <div class="row">
 
                         <div class="six columns mob-whole">
-                            <label for="contactFname">Full Name <span class="required">*</span></label>	      						   
-                            <input name="contactFname" type="text" id="contactFname" placeholder="First Name" value="" />	      					
+                            <label for="contactFname">Full Name <span class="required">*</span></label>                                
+                            <input name="contactFname" type="text" id="contactFname" placeholder="First Name" value="" />                           
                         </div>
 
-                        <div class="six columns mob-whole">	
-                            <label for="contactMobile">Mobile <span class="required">*</span></label>      						   
-                            <input name="contactMobile" type="text" id="contactMobile" placeholder="Mobile" value="" />	      					
-                        </div>	                        
+                        <div class="six columns mob-whole"> 
+                            <label for="contactMobile">Mobile <span class="required">*</span></label>                              
+                            <input name="contactMobile" type="text" id="contactMobile" placeholder="Mobile" value="" />                         
+                        </div>                          
 
                     </div>
 
                     <div class="row">
 
-                        <div class="six columns mob-whole">	
-                            <label for="contactEmail">Email <span class="required">*</span></label>      						   
-                            <input name="contactEmail" type="text" id="contactEmail" placeholder="Email" value="" />	      					
+                        <div class="six columns mob-whole"> 
+                            <label for="contactEmail">Email <span class="required">*</span></label>                                
+                            <input name="contactEmail" type="text" id="contactEmail" placeholder="Email" value="" />                            
                         </div>
 
-                        <div class="six columns mob-whole">	 
+                        <div class="six columns mob-whole">  
                             <label for="contactSubject">Subject</label>
                             <select name="contactSubject" id="contactSubject" style="color:grey">
                                 <option selected="selected" value="">Subject</option>
@@ -820,7 +812,7 @@
                 <i class="fa fa-check"></i>Your message was sent, thank you!<br />
             </div>
 
-        </div>     	
+        </div>      
 
     </div>    
 
