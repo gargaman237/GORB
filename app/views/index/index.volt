@@ -56,7 +56,7 @@
         =================================================== -->
         <section id="hero"> 
             
-            <!-- Begin Static Image -->
+            <!-- Begin Static Image
             <div class="row hero-content">
 
                 <div class="twelve columns flex-container">
@@ -78,9 +78,9 @@
                 </div>    
 
             </div> 
-            <!-- End Static -->
+            End Static -->
             
-            <!-- carausel Start 
+            <!-- carausel Start -->
             <div class="hero-content">
                         <div id="carouselHacked" class="carousel carousel-fade" data-ride="carousel">
                     <div class="header-backup"></div>
@@ -128,7 +128,7 @@
                     </a>
                 </div>
             </div> 
-            Carausal End -->       
+            <!-- Carausal End -->       
 
         </section> <!-- #hero -->
 
