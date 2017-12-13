@@ -47,7 +47,7 @@ class PersonalloanContinueController extends ControllerBase
                 $this->response->redirect('personalloan_continue');
             } else {
                 $this->flash->success('Thanks, we will contact you in the next few hours');
-                $this->response->redirect('thankyou');
+                $this->response->redirect('thankyou?t=pl');
             }
         }
 
