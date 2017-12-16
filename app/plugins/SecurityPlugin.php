@@ -75,6 +75,7 @@ class SecurityPlugin extends Plugin
                                 'lap_continue'    => array('index', 'send'),
                                 'continue'    => array('index', 'send'),
                                 'disclaimer'    => array('index'),
+                                'landing'    => array('index'),
                                 'thankyou'    => array('index'),
                                 'terms_conditions'    => array('index'),
 			);
