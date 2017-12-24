@@ -127,5 +127,14 @@ class Services extends \Base\Services
     {
         return new Elements();
     }
+    
+    /**
+     * Initialize a router
+     * 
+     * @author Aman Garg <aman.garg@zee.esselgroup.com>
+     */
+    protected function initRouter() {
+        return include __DIR__ . '/config/routes.php';
+    }
 
 }
