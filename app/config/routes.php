@@ -25,22 +25,26 @@ $router->add("/", array(
 //    'action' => 'getUserProfileByUserId'
 //));
 
-$router->add("/personal-loan", array(
+$router->add("/loan/personal-loan", array(
     "controller" => "personalloan",
     "action" => "index"
 ));
 
-$router->add("/home-loan", array(
+$router->add("/loan/home-loan", array(
     "controller" => "homeloan",
     "action" => "index"
 ));
 
-$router->add("/business-loan", array(
+$router->add("/loan/business-loan", array(
     "controller" => "businessloan",
     "action" => "index"
 ));
 
 $router->add("/loan-against-property", array(
+    "controller" => "lap",
+    "action" => "index"
+));
+$router->add("/loan/loan-against-property", array(
     "controller" => "lap",
     "action" => "index"
 ));
