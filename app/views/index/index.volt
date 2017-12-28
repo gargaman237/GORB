@@ -86,7 +86,7 @@
                     <div class="header-backup"></div>
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="images/hero_personal.jpg" alt="" style="height:600px; width: 2000px;">
+                            <img src="images/personal-loan-2.jpg" alt="" style="height:600px; width: 2000px;">
                             <div class="carousel-caption flex-caption">
                                 <h1>Personal Loan</h1>
                                 <h2>For All your Requirements</h2>
@@ -94,15 +94,15 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/hero_business.jpg" alt="" style="height:600px; width: 2000px;">
+                            <img src="images/business-loan-1.jpg" alt="" style="height:600px; width: 2000px;">
                             <div class="carousel-caption flex-caption">
-                                <h1></h1>
-                                <h2></h2>
+                                <h1>Business Loan</h1>
+                                <h2>For All your Requirements</h2>
                                                 <a href="./businessloan" title="Business Loans"><button>learn more</button></a>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/hero_home.jpg" alt="" style="height:600px; width: 2000px;">
+                            <img src="images/home-loan.jpg" alt="" style="height:600px; width: 2000px;">
                             <div class="carousel-caption flex-caption">
                                 <h1>Home Loan</h1>
                                 <h2>For All your Requirements</h2>
@@ -110,9 +110,9 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/hero_lap.jpg" alt="" style="height:600px; width: 2000px;">
+                            <img src="images/Loan-against-property.jpg" alt="" style="height:600px; width: 2000px;">
                             <div class="carousel-caption flex-caption">
-                                <h1>Loan Against Property</h1>
+                                <h1>LAP</h1>
                                 <h2>For All your Requirements</h2>
                                                 <a href="./lap" title="Loan Against Property"><button>learn more</button></a>
                             </div>
