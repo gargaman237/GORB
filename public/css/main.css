@@ -1165,14 +1165,12 @@ hr {
 /* page title
 ---------------------------------------------------------------------- */
 #page-title {
-	//background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
-      background: #12151b url(../images/banner_image.jpg) no-repeat center center fixed;
-       // background-color: #ffffff;
+	/*background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;*/
+        background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
 	padding-top: 108px;
-	//padding-bottom: 60px;
 	text-align: center;
 }
 #page-title .row {
@@ -1287,14 +1285,14 @@ hr {
 /* k. Hero Section
 /* =================================================================== */
 #hero {
-//	background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
+    /*
 	background: #12151b url(../images/banner_image.jpg) no-repeat center center fixed;
-      //  background-color: #ffffff;
+    */
+        background-color: #ffffff;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
 	padding-top: 66px;
-	//padding-bottom: 90px;
 	width: 100%;
 	text-align: left;
 	position: relative;
@@ -1424,7 +1422,6 @@ hr {
 }
 
 .carousel-caption {
-    //left: 12%;
     line-height: 1;
     margin-top: -100px;
     position: absolute;
@@ -1434,7 +1431,7 @@ hr {
 
 .carousel-caption h1 {
     color: #fff;
-    font-size: 80px;
+    font-size: 55px;
     line-height: 1;
     margin-bottom: 0;
     text-transform: uppercase;
