@@ -24,6 +24,48 @@ try {
      * Auto-loader configuration
      */
     require APP_PATH . 'app/config/loader.php';
+//    require APP_PATH . 'vendor/autoload.php';
+    //require_once('../vendor/autoload.php');
+    
+//    $mail_config = [
+//        'driver' => 'sendmail',
+//        'sendmail' => '/usr/sbin/sendmail -bs',
+//        'from' => [
+//            'email' => 'gargaman92@gmail.com',
+//            'name' => 'Loanmart'
+//        ]
+//    ];
+//    
+//    $mailer = new \Phalcon\Ext\Mailer\Manager($mail_config);
+//
+//        $message = $mailer->createMessage()
+//                        ->to('gargaman237@gmail.com', 'Aman')
+//                        ->subject('Hello world!')
+//                        ->content('Hello world!');
+//
+//        // Set the Cc addresses of this message.
+//        $message->cc('example_cc@gmail.com');
+//        // Send message
+//        $message->send();
+    
+//    $to      = 'gargaman237@gmail.com';
+//    $subject = 'Hello Aman';
+//    $message = 'hello this is a test';
+//    $message = wordwrap($message, 70, "\r\n");
+//    $headers = 'From: gargaman237@gmail.com' . "\r\n" .
+//        'Reply-To: loanmart@gmail.com';
+//    if( mail($to, $subject, $message, $headers) ){
+//        echo 'Mail was sent'; die;
+//    } else {
+//        echo 'Couldn\'t send the mail'; die;
+//    }
+    
+//    ini_set("SMTP", "aspmx.l.google.com");
+//    ini_set("sendmail_from", "gargaman237@gmail.com");
+//    $message = "The mail message was sent with the following mail setting:\r\nSMTP = aspmx.l.google.com\r\nsmtp_port = 25\r\nsendmail_from = gargaman237@gmail.com";
+//    $headers = "From: gargaman237@gmail.com";
+//    $a = mail("gargaman237@gmail.com", "Testing", $message, $headers);
+//    print_r($a);die;
 
     $application = new Application(new Services($config));
 

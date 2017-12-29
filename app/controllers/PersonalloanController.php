@@ -1,5 +1,8 @@
 <?php
 
+use Phalcon\Mvc\Model\Criteria;
+use Phalcon\Paginator\Adapter\Model as Paginator;
+
 class PersonalloanController extends ControllerBase {
 
     public function initialize() {
@@ -41,6 +44,42 @@ class PersonalloanController extends ControllerBase {
                 $this->response->redirect('continue');
             }
         }
+    }
+    
+    public function searchAction()
+    {
+        $numberPage = 1;
+        if ($this->request->isPost()) {
+            $query = Criteria::fromInput($this->di, "Products", $this->request->getPost());
+            $this->persistent->searchParams = $query->getParams();
+        } else {
+            $numberPage = $this->request->getQuery("page", "int");
+        }
+
+        $parameters = array();
+        if ($this->persistent->searchParams) {
+            $parameters = $this->persistent->searchParams;
+        }
+
+        $products = Personalloan::find($parameters);
+        if (count($products) == 0) {
+            $this->flash->notice("The search did not find any lead");
+
+            return $this->dispatcher->forward(
+                [
+                    "controller" => "invoices",
+                    "action"     => "index",
+                ]
+            );
+        }
+        
+        $paginator = new Paginator(array(
+            "data"  => $products,
+            "limit" => 10,
+            "page"  => $numberPage
+        ));
+
+        $this->view->page = $paginator->getPaginate();
     }
 
 }
