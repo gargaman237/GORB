@@ -3,7 +3,7 @@
 
 <div class="row">
         <div class="mob-whole six columns left">
-            <a href="personalloan/search">
+            <a href="../personalloan/search">
                 <label class="btn btn-lg loan-icon">
                     <i class="icon-user"></i>
                 </label>
@@ -20,7 +20,7 @@
         </div> <!-- /right -->
 
         <div class="mob-whole six columns left">
-            <a href="businessloan/search">
+            <a href="../businessloan/search">
                 <label class="btn btn-lg loan-icon">
                     <i class="icon-briefcase"></i>
                 </label>
