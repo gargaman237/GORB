@@ -19,10 +19,10 @@
             <th>phone</th>
             <th>Email</th>
             <th>DOB</th>
-            <th>Year of Incorporation</th>
             <th>City</th>
-            <th>Turn Over</th>
+            <th>Occupation</th>
             <th>Loan Amount</th>
+            <th>Net Income</th>
             <th>Creation Time</th>
         </tr>
     </thead>
@@ -34,10 +34,10 @@
             <td>{{ product.phone }}</td>
             <td>{{ product.email }}</td>
             <td>{{ product.dob }}</td>
-            <td>{{ product.year_incorporation }}</td>
             <td>{{ product.city }}</td>
-            <td>{{ product.turn_over }}</td>
+            <td>{{ product.occupation }}</td>
             <td>{{ product.loan_amount }}</td>
+            <td>{{ product.net_income }}</td>
             <td>{{ product.created_at }}</td>
            
         </tr>

@@ -18,11 +18,14 @@
             <th>Name</th>
             <th>phone</th>
             <th>Email</th>
-            <th>DOB</th>
-            <th>Year of Incorporation</th>
+            <th>Age</th>
+            <th>Company</th>
             <th>City</th>
-            <th>Turn Over</th>
+            <th>Occupation</th>
             <th>Loan Amount</th>
+            <th>Net Income</th>
+            <th>Property Value</th>
+            <th>Property Type</th>
             <th>Creation Time</th>
         </tr>
     </thead>
@@ -33,11 +36,14 @@
             <td>{{ product.name }}</td>
             <td>{{ product.phone }}</td>
             <td>{{ product.email }}</td>
-            <td>{{ product.dob }}</td>
-            <td>{{ product.year_incorporation }}</td>
+            <td>{{ product.age }}</td>
+            <td>{{ product.company_name }}</td>
             <td>{{ product.city }}</td>
-            <td>{{ product.turn_over }}</td>
+            <td>{{ product.occupation }}</td>
             <td>{{ product.loan_amount }}</td>
+            <td>{{ product.net_income }}</td>
+            <td>{{ product.property_value }}</td>
+            <td>{{ product.property_type }}</td>
             <td>{{ product.created_at }}</td>
            
         </tr>
@@ -45,7 +51,7 @@
     </tbody>
     <tbody>
         <tr>
-            <td colspan="10" align="right">
+            <td colspan="13" align="right">
                 <div class="btn-group">
                     {{ link_to("personalloan/search", '<i class="icon-fast-backward"></i> First', "class": "btn") }}
                     {{ link_to("personalloan/search?page=" ~ page.before, '<i class="icon-step-backward"></i> Previous', "class": "btn") }}

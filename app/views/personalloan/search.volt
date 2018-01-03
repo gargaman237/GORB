@@ -1,11 +1,10 @@
 {{ content() }}
 
+<br>
+<br>
 <ul class="pager">
     <li class="previous">
-        {{ link_to("products", "&larr; Go Back") }}
-    </li>
-    <li class="next">
-        {{ link_to("products/new", "Create products") }}
+        {{ link_to("invoices", "&larr; Dashboard") }}
     </li>
 </ul>
 

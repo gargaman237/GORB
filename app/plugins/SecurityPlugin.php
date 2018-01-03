@@ -53,7 +53,9 @@ class SecurityPlugin extends Plugin
 				'producttypes' => array('index', 'search', 'new', 'edit', 'save', 'create', 'delete'),
 				'invoices'     => array('index', 'profile'),
                                 'personalloan'    => array('search'),
+                                'homeloan'    => array('search'),
                                 'businessloan'    => array('search'),
+                                'lap'    => array('search'),
 			);
 			foreach ($privateResources as $resource => $actions) {
 				$acl->addResource(new Resource($resource), $actions);

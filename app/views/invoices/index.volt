@@ -13,10 +13,12 @@
         </div> <!-- /left -->
 
         <div class="mob-whole six columns right">
+            <a href="../homeloan/search">
                 <label class="btn btn-lg loan-icon">
                     <i class="icon-home"></i>
                 </label>
                 <h3>Home Loan</h3>
+            </a>    
         </div> <!-- /right -->
 
         <div class="mob-whole six columns left">
@@ -31,10 +33,12 @@
         </div> <!-- /left -->
 
         <div class="mob-whole six columns right">
+            <a href="../lap/search">
                 <label class="btn btn-lg loan-icon">
                     <i class="icon-list"></i>
                 </label>
                 <h3>Loan Against Property</h3>
+            </a>    
         </div> <!-- /right -->
 
 

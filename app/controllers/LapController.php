@@ -1,4 +1,5 @@
 <?php
+use Phalcon\Paginator\Adapter\Model as Paginator;
 
 class LapController extends ControllerBase {
 
@@ -59,5 +60,43 @@ class LapController extends ControllerBase {
 //                        ]
 //        );
     }
+    
+    public function searchAction()
+    {
+        $numberPage = 1;
+        if ($this->request->isPost()) {
+            $query = Criteria::fromInput($this->di, "Products", $this->request->getPost());
+            $this->persistent->searchParams = $query->getParams();
+        } else {
+            $numberPage = $this->request->getQuery("page", "int");
+        }
+
+        $parameters = array();
+        if ($this->persistent->searchParams) {
+            $parameters = $this->persistent->searchParams;
+        }
+
+        $leads = Lap::find($parameters);
+//        p($leads);
+        if (count($leads) == 0) {
+            $this->flash->notice("The search did not find any lead");
+
+            return $this->dispatcher->forward(
+                [
+                    "controller" => "invoices",
+                    "action"     => "index",
+                ]
+            );
+        }
+        
+        $paginator = new Paginator(array(
+            "data"  => $leads,
+            "limit" => 10,
+            "page"  => $numberPage
+        ));
+
+        $this->view->page = $paginator->getPaginate();
+    }
+
 
 }
