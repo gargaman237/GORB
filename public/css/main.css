@@ -1431,7 +1431,7 @@ hr {
 
 .carousel-caption h1 {
     color: #fff;
-    font-size: 55px;
+    font-size: 47px;
     line-height: 1;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -1440,7 +1440,7 @@ hr {
 
 .carousel-caption h2 {
     color: #fff;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 1;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -1660,7 +1660,7 @@ hr {
 
 #about {
 	background: white;
-	padding-top: 100px;
+	padding-top: 50px;
 	padding-bottom: 0;
         text-align: center;
 }
