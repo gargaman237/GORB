@@ -71,7 +71,7 @@
                         <li><a href="./homeloan" title="Home Loans">Home Loan</a></li>
                         <li><a href="./lap" title="Loan Against Property">LAP</a></li>	            
                         <li><a class="" href="./contact">Contact</a></li>
-                        <li><a class="" href="./blog">Blog</a></li>
+                        <!--<li><a class="" href="./blog">Blog</a></li>-->
                     </ul> 
 
                 </nav> <!-- /nav-wrap -->
@@ -100,7 +100,7 @@
 
                     <ul>
                         <li><a href="tel:01143005707">011 - 43005707</a></li>
-                        <li><a href="mailto:support@loanmaart.com">support@loanmaart.com</a></li>
+                        <li><a href="mailto:info@loanmaart.com">info@loanmaart.com</a></li>
                         <a class="" title="Contact us" href="./contact">Contact Us</a>
                     </ul>                  
                 </div>
@@ -110,12 +110,11 @@
                     <h3 class="contact">Follow Us</h3>
 
                     <ul>
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Twitter</a></li>
-                        <li><a href="#">GooglePlus</a></li>
-                        <li><a href="#">Instagram</a></li>
-                        <li><a href="#">Flickr</a></li>
-                        <li><a href="#">Skype</a></li>
+                        <li><a href="https://www.linkedin.com/in/loan-maart-673976157/" target="blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linked In</a></li>
+                        <li><a href="https://www.facebook.com/FaideKaLoan/" target="blank"><i class="fa fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+                        <li><a href="#" target="blank"><i class="fa fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+                        <li><a href="http://bit.ly/2D87IjR" target="blank"><i class="fa fa-google-plus-square" aria-hidden="true"></i> Google</a></li>
+                        <li><a href="https://www.instagram.com/loanmaart/" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></li>
                     </ul>
 
                 </div> <!-- /columns --> 
