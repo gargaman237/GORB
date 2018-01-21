@@ -1292,7 +1292,7 @@ hr {
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
-	padding-top: 66px;
+	padding-top: 61px;
 	width: 100%;
 	text-align: left;
 	position: relative;
@@ -1431,7 +1431,7 @@ hr {
 
 .carousel-caption h1 {
     color: #fff;
-    font-size: 47px;
+    font-size: 44px;
     line-height: 1;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -1440,7 +1440,7 @@ hr {
 
 .carousel-caption h2 {
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1;
     margin-bottom: 0;
     text-transform: uppercase;
