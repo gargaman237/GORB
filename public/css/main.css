@@ -2105,3 +2105,39 @@ hr {
 .loan-btn:hover {
     background-color: #d94d0d;
 }
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    text-align: center;
+    height: 30px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-cls {
+    padding:7px !important;
+}
+
+.dropdown-content a:hover {background-color: #f26522; color: #fff}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
