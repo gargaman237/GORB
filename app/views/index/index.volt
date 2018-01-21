@@ -19,7 +19,7 @@
         <!--- Basic Page Needs
         ================================================== -->
         <meta charset="utf-8">
-        <title>Loanmart</title>
+        <title>Loanmaart</title>
         <meta name="description" content="">  
         <meta name="author" content="">
 
@@ -66,7 +66,7 @@
                         <ul class="slides">
                             <li>
                                 <div class="flex-caption">
-                                    <h1>Loanmart offers the best loans for all your requirements</h1>   
+                                    <h1>Loanmaart offers the best loans for all your requirements</h1>   
                                     <p><a class="button stroke smoothscroll" href="#services">More About Us</a></p>                                                                
                                 </div>                      
                             </li>
@@ -144,7 +144,7 @@
 
                     <hr />
 
-                    <p>Hello. We are Loanmart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
+                    <p>Hello. We are Loanmaart Though we've been around a long time, we're newer to the online disbursals and we're glad to be your neighbor. It's likely you don't know us well yet. There are many banks, and  they offer you plenty of financial products and services, but really, the similarities end there. Our origins, focus, and simplified and personal approach to banking are what set us apart.
                     </p>
 
                 </div>
@@ -369,7 +369,7 @@
 
             <hr />
 
-            <p>Loanmart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
+            <p>Loanmaart is one of the leading Loan Agency in Delhi with slowly making its presence in different zones too.. It offers different types of Loans like Personal Loan, Business Loan, Home Loan, Loan Against Property. Our aim is to make financial products affordable and easily accessible to the common man and to provide innovative ideas while providing Loans to the customer from different types of bank.
             </p>
 
         </div>
@@ -655,7 +655,7 @@
 
                     <h3>    Great Service</h3>
                     <blockquote>
-                        <p>Great services by Loanmart. I applied for my loan in just 2 minutes.</p>
+                        <p>Great services by Loanmaart. I applied for my loan in just 2 minutes.</p>
                         <h5><b>Rajat </b> <br></h5>
                         <h6>Jult 23, 2017</h6>
             </blockquote>
@@ -676,7 +676,7 @@
 
                 <article class="bgrid">
 
-                    <h3>Nice experience with Loanmart</h3>
+                    <h3>Nice experience with Loanmaart</h3>
                     <blockquote>
                         <p>Personal Assistance till loan disbursal. Best rates.</p>
                         <br>
@@ -695,7 +695,7 @@
                         I  am happy and thanking you to inform you that i have received a personal loan from tata capital with good rate of interest. 
                         special thanks to Tamanna. he did excellent job. 
                         find always ready to resolve the queries even in extended work hours. without Tamanna i can't get this personal loan it has helped in my emergency situation he will be very calm and be patiently when ever i am calling him for this very good response from him. if any of my friends or colleague asked loan i will refer Tamanna and also already referred his name and number. 
-                        thanks once again and thanks a lot tamanna and to loanmart and special thanks to tamanna.
+                        thanks once again and thanks a lot tamanna and to Loanmaart and special thanks to tamanna.
                     </p>
 
                 </article>
