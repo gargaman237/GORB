@@ -30,7 +30,7 @@
         <!-- CSS
     ================================================== -->
         <link rel="stylesheet" href="css/base.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/main.css?ver=1.1">
         <link rel="stylesheet" href="css/media-queries.css">         
 
         <!-- Script
