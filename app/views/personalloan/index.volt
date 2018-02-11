@@ -115,7 +115,7 @@
 </form>
 
 <div id="services" style="text-align: left; padding:5%;margin:2%;">
-    <p class="western"><b>Personal Loans</b></p>
+    <h1><p class="western"><b>Personal Loans</b></p></h1>
     <p class="western">What do you understand when you listen the word Personal loan?</p>
     <p class="western">Yes, it is unsecured loan and borrowed from bank or non-banking financial company to meet the personal needs of people. As we mentioned this is unsecured loan which means borrower do not put up any collateral like property or gold to avail it. So, how the bank authorities will decide to provide you with personal loan or not? It totally depends on some key factors and they are:</p>
 
@@ -134,7 +134,7 @@
     <p class="western">The other factor which affects the most is borrower’s income and expenses. It is very important to consider the factor how much a person is getting paid as this is unsecure loan and bank need the assurance that they will get back the given amount. Banks calculate your income against your existing debt or we can say they will calculate <b>debt-to-income ratio.</b></p>
     <p class="western"><u><b>Banking Activity</b></u></p>
     <p class="western">The record of banking activities helps a lot a banker to analysis whether the loan should be granted to you or not. Some activities like racking up multiple fees, making excessive withdrawal and overdrawing your account could actually leads to red flag.</p>
-    <p class="western"><u><b>How to apply for Personal Loan</b></u></p>
+    <h2><p class="western"><u><b>How to apply for Personal Loan</b></u></p></h2>
     <p class="western">Suppose minakshi wants to apply for personal loan but she is not sure what steps she needs to follow in order to get the things done sequentially. So, if you are in a situation like minakshi is dealing with, here we are providing you with three simple steps you need to follow to apply for a personal loan.</p>
 
     <ul>
