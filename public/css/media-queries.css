@@ -35,7 +35,12 @@
 		width: 66px;
 		height: 66px;
 	}
-
+        
+        .dropdown {
+            position: relative;
+            display: inline-block;
+            width: 55%;
+        }
 
 } /* 900 */
 
@@ -335,6 +340,12 @@
 	.more-projects h1 {
 		font: 26px/33px "raleway-bold", sans-serif;
 	}
+        
+        .dropdown {
+            position: relative;
+            display: inline-block;
+            width: 55%;
+        }
 
 
 } /* 600 */

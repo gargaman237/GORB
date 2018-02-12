@@ -67,7 +67,7 @@
                     <ul id="nav" class="nav">
                         <!--<li class="current"><a class="smoothscroll" href="./#hero" title="Home">Home</a></li>-->
                         <div class="dropdown">
-                            <li><a href="./personalloan" title="Personal Loans">Personal Loan</a></li>
+                            <li><a title="Personal Loans" href="javascript: void(0)">Personal Loan</a></li>
                             <div class="dropdown-content">
                                 <a href="./personal-loan" class="dropdown-cls">Personal Loan</a>
                                 <a href="./emi-calculator" class="dropdown-cls">EMI Calculator</a>
@@ -76,7 +76,7 @@
                         </div>
 
                         <div class="dropdown">
-                            <li><a href="./businessloan" title="Business Loans">Business Loan</a></li>
+                            <li><a title="Business Loans" href="javascript: void(0)">Business Loan</a></li>
                             <div class="dropdown-content">
                                 <a href="./business-loan" class="dropdown-cls">Business Loan</a>
                                 <a href="./emi-calculator" class="dropdown-cls">EMI Calculator</a>
@@ -84,7 +84,7 @@
                             </div>
                         </div>
                         <div class="dropdown">
-                            <li><a href="./homeloan" title="Home Loans">Home Loan</a></li>
+                            <li><a title="Home Loans" href="javascript: void(0)">Home Loan</a></li>
                             <div class="dropdown-content">
                                 <a href="./home-loan" class="dropdown-cls">Home Loan</a>
                                 <a href="./emi-calculator" class="dropdown-cls">EMI Calculator</a>
@@ -92,7 +92,7 @@
                             </div>
                         </div>
                         <div class="dropdown">
-                            <li><a href="./lap" title="Loan Against Property">LAP</a></li>	
+                            <li><a title="Loan Against Property" href="javascript: void(0)">LAP</a></li>	
                             <div class="dropdown-content">
                                 <a href="./loan-against-property" class="dropdown-cls">LAP</a>
                                 <a href="./emi-calculator" class="dropdown-cls">EMI Calculator</a>
